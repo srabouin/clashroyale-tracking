@@ -14,6 +14,7 @@
     "HitSpeed": "int", 
     "HitsAir": "boolean", 
     "HitsGround": "boolean", 
+    "IgnoreBuildings": "boolean", 
     "LifeDuration": "int", 
     "LifeDurationIncreasePerLevel": "int", 
     "LoopingEffect": "string", 
@@ -28,7 +29,8 @@
     "ProjectilesToCenter": "boolean", 
     "Pushback": "int", 
     "Radius": "int", 
-    "ScaledEffect": "string"
+    "ScaledEffect": "string", 
+    "SpawnsAEO": "String"
   }, 
   {
     "AffectsHidden": "", 
@@ -45,6 +47,7 @@
     "HitSpeed": 300, 
     "HitsAir": true, 
     "HitsGround": true, 
+    "IgnoreBuildings": "", 
     "LifeDuration": 8000, 
     "LifeDurationIncreasePerLevel": 500, 
     "LoopingEffect": "Spell_rage_loop", 
@@ -59,13 +62,14 @@
     "ProjectilesToCenter": "", 
     "Pushback": "", 
     "Radius": 5000, 
-    "ScaledEffect": "Spell_rage_ground"
+    "ScaledEffect": "Spell_rage_ground", 
+    "SpawnsAEO": ""
   }, 
   {
     "AffectsHidden": true, 
     "Buff": "Freeze", 
     "BuffNumber": 1, 
-    "BuffTime": 5000, 
+    "BuffTime": 4000, 
     "BuffTimeIncreasePerLevel": 300, 
     "CapBuffTimeToAreaEffectTime": "", 
     "CrownTowerDamagePercent": "", 
@@ -76,7 +80,8 @@
     "HitSpeed": "", 
     "HitsAir": true, 
     "HitsGround": true, 
-    "LifeDuration": 5000, 
+    "IgnoreBuildings": "", 
+    "LifeDuration": 4000, 
     "LifeDurationIncreasePerLevel": 300, 
     "LoopingEffect": "Spell_freeze_loop", 
     "MaximumTargets": "", 
@@ -90,7 +95,8 @@
     "ProjectilesToCenter": "", 
     "Pushback": "", 
     "Radius": 3000, 
-    "ScaledEffect": "Spell_freeze_ground"
+    "ScaledEffect": "Spell_freeze_ground", 
+    "SpawnsAEO": ""
   }, 
   {
     "AffectsHidden": "", 
@@ -107,6 +113,7 @@
     "HitSpeed": 460, 
     "HitsAir": true, 
     "HitsGround": true, 
+    "IgnoreBuildings": "", 
     "LifeDuration": 1500, 
     "LifeDurationIncreasePerLevel": "", 
     "LoopingEffect": "", 
@@ -121,7 +128,8 @@
     "ProjectilesToCenter": "", 
     "Pushback": "", 
     "Radius": 3500, 
-    "ScaledEffect": ""
+    "ScaledEffect": "", 
+    "SpawnsAEO": ""
   }, 
   {
     "AffectsHidden": "", 
@@ -138,6 +146,7 @@
     "HitSpeed": "", 
     "HitsAir": true, 
     "HitsGround": true, 
+    "IgnoreBuildings": "", 
     "LifeDuration": 1, 
     "LifeDurationIncreasePerLevel": "", 
     "LoopingEffect": "", 
@@ -152,7 +161,8 @@
     "ProjectilesToCenter": "", 
     "Pushback": "", 
     "Radius": 2500, 
-    "ScaledEffect": ""
+    "ScaledEffect": "", 
+    "SpawnsAEO": ""
   }, 
   {
     "AffectsHidden": "", 
@@ -169,6 +179,7 @@
     "HitSpeed": 250, 
     "HitsAir": true, 
     "HitsGround": true, 
+    "IgnoreBuildings": "", 
     "LifeDuration": 10000, 
     "LifeDurationIncreasePerLevel": "", 
     "LoopingEffect": "Spell_poison_loop", 
@@ -183,6 +194,40 @@
     "ProjectilesToCenter": "", 
     "Pushback": "", 
     "Radius": 3500, 
-    "ScaledEffect": "Spell_poison_ground"
+    "ScaledEffect": "Spell_poison_ground", 
+    "SpawnsAEO": ""
+  }, 
+  {
+    "AffectsHidden": "", 
+    "Buff": "Rage", 
+    "BuffNumber": 1, 
+    "BuffTime": 2000, 
+    "BuffTimeIncreasePerLevel": "", 
+    "CapBuffTimeToAreaEffectTime": true, 
+    "CrownTowerDamagePercent": "", 
+    "Damage": "", 
+    "DamageType": "", 
+    "HitBiggestTargets": "", 
+    "HitEffect": "", 
+    "HitSpeed": 300, 
+    "HitsAir": true, 
+    "HitsGround": true, 
+    "IgnoreBuildings": "", 
+    "LifeDuration": 8000, 
+    "LifeDurationIncreasePerLevel": "", 
+    "LoopingEffect": "Spell_rage_loop", 
+    "MaximumTargets": "", 
+    "Name": "BarbarianRage", 
+    "NoEffectToCrownTowers": "", 
+    "OneShotEffect": "Spell_rage_effect", 
+    "OnlyEnemies": "", 
+    "OnlyOwnTroops": true, 
+    "Projectile": "", 
+    "ProjectileStartHeight": "", 
+    "ProjectilesToCenter": "", 
+    "Pushback": "", 
+    "Radius": 5000, 
+    "ScaledEffect": "Spell_rage_ground", 
+    "SpawnsAEO": ""
   }
 ]

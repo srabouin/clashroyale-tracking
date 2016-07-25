@@ -520,6 +520,14 @@
     "TextValue": ""
   }, 
   {
+    "BooleanValue": false, 
+    "Name": "ENABLE_FACEBOOK_TENCENT", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
     "BooleanValue": true, 
     "Name": "ENABLE_GAMECENTER_FRIENDS", 
     "NumberArray": "", 
@@ -550,6 +558,14 @@
     "NumberValue": "", 
     "StringArray": "", 
     "TextValue": 90900000
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "SHOP_BUY_ALL_CARDS_CONFIRMATION", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
   }, 
   {
     "BooleanValue": true, 
@@ -802,6 +818,14 @@
   {
     "BooleanValue": false, 
     "Name": "GOOGLE_ACHIEVEMENTS_KUNLUN", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "GOOGLE_ACHIEVEMENTS_TENCENT", 
     "NumberArray": "", 
     "NumberValue": "", 
     "StringArray": "", 
@@ -1165,6 +1189,190 @@
     "NumberArray": "", 
     "NumberValue": "", 
     "StringArray": "Arena8", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "Arena_L", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TOURNAMENT_INGAME_NOTIFICATION_END_TIMES", 
+    "NumberArray": 5400, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 3600, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 1800, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 1200, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 600, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 300, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ENABLE_JUPITER_FRIENDS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ENABLE_JUPITER", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "ENABLE_JUPITER_ANDROID", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ENABLE_JUPITER_TENCENT", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "JUPITER_IOS_CHECK_LANGUAGE_CODE", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "SEND_ACCOUNT_SWITCHED_MESSAGE_FROM_CONFIRM_POPUP", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "NAME_CHANGE_CONFIRM_CASE_SENSITIVE", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "DONT_MOVE_OPEN_ID_MIN_NPC_WINS", 
+    "NumberArray": "", 
+    "NumberValue": 2, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "LANDSCAPE_MODE_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GC_TENCENT_CONFIRMATION_XP_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 2, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TENCENT_PROMPT_GC_SWITCH_MIN_NPC_WINS", 
+    "NumberArray": "", 
+    "NumberValue": 0, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "DISABLE_TENCENT_AFTER_LOGIN", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "RESET_STATICS_WHEN_CHANGING_ACCOUNT", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CHINESE_ANDROID_APP_STORE_LOGIN_FAILED_MESSAGE", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": "\u6b64\u5fae\u4fe1/QQ\u5e10\u53f7\u5df2\u7ecf\u5173\u8054\u4e86\u4ece\u5176\u4ed6\u5b89\u5353\u5e94\u7528\u5546\u5e97\u4e0b\u8f7d\u7684\u76f8\u540c\u6e38\u620f\uff0c\u4e0d\u80fd\u518d\u6b21\u5173\u8054\u3002\u5982\u679c\u60a8\u5e0c\u671b\u4f7f\u7528\u8be5\u5fae\u4fe1/QQ\u5e10\u53f7\u91cd\u65b0\u5f00\u59cb\u6e38\u620f\uff0c\u8bf7\u4ece\u6e38\u620f\u5185\u8054\u7cfbSupercell\u73a9\u5bb6\u652f\u6301\u56e2\u961f\u3002"
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "HIDE_WECHAT_BUTTON_IF_NOT_INSTALLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "HIDE_WECHAT_BUTTON_IF_NOT_INSTALLED_ANDROID", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
     "TextValue": ""
   }
 ]

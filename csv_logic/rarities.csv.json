@@ -570,7 +570,7 @@
     "MirrorRelativeLevel": 2, 
     "Name": "Rare", 
     "Red": 255, 
-    "RefundGems": 20, 
+    "RefundGems": 15, 
     "RelativeLevel": 2, 
     "RotateExportName": "card_rotate_epic_short", 
     "ShowAsQuestionMark": false, 
@@ -999,7 +999,7 @@
     "MirrorRelativeLevel": 5, 
     "Name": "Epic", 
     "Red": 255, 
-    "RefundGems": 400, 
+    "RefundGems": 300, 
     "RelativeLevel": 5, 
     "RotateExportName": "card_rotate_rare_short", 
     "ShowAsQuestionMark": true, 
@@ -1049,7 +1049,7 @@
     "StackedCardExportName": "", 
     "TID": "", 
     "UpgradeCost": 2000, 
-    "UpgradeExp": 50, 
+    "UpgradeExp": 100, 
     "UpgradeMaterialCount": 4
   }, 
   {
@@ -1088,7 +1088,7 @@
     "StackedCardExportName": "", 
     "TID": "", 
     "UpgradeCost": 4000, 
-    "UpgradeExp": 100, 
+    "UpgradeExp": 200, 
     "UpgradeMaterialCount": 10
   }, 
   {
@@ -1127,7 +1127,7 @@
     "StackedCardExportName": "", 
     "TID": "", 
     "UpgradeCost": 8000, 
-    "UpgradeExp": 200, 
+    "UpgradeExp": 400, 
     "UpgradeMaterialCount": 20
   }, 
   {
@@ -1166,7 +1166,7 @@
     "StackedCardExportName": "", 
     "TID": "", 
     "UpgradeCost": 20000, 
-    "UpgradeExp": 400, 
+    "UpgradeExp": 600, 
     "UpgradeMaterialCount": 50
   }, 
   {
@@ -1205,7 +1205,7 @@
     "StackedCardExportName": "", 
     "TID": "", 
     "UpgradeCost": 50000, 
-    "UpgradeExp": 1000, 
+    "UpgradeExp": 800, 
     "UpgradeMaterialCount": 100
   }, 
   {
@@ -1322,7 +1322,7 @@
     "StackedCardExportName": "spell_stack_legendary", 
     "TID": "TID_RARITY_LEGENDARY", 
     "UpgradeCost": 5000, 
-    "UpgradeExp": 200, 
+    "UpgradeExp": 250, 
     "UpgradeMaterialCount": 2
   }, 
   {
@@ -1361,7 +1361,7 @@
     "StackedCardExportName": "", 
     "TID": "", 
     "UpgradeCost": 20000, 
-    "UpgradeExp": 400, 
+    "UpgradeExp": 600, 
     "UpgradeMaterialCount": 4
   }, 
   {
@@ -1400,7 +1400,7 @@
     "StackedCardExportName": "", 
     "TID": "", 
     "UpgradeCost": 50000, 
-    "UpgradeExp": 1000, 
+    "UpgradeExp": 800, 
     "UpgradeMaterialCount": 10
   }, 
   {

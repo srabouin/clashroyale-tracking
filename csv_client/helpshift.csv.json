@@ -6,5 +6,21 @@
   {
     "HelpshiftId": 2237, 
     "Name": "ParentsGuide"
+  }, 
+  {
+    "HelpshiftId": 2342, 
+    "Name": "Terms"
+  }, 
+  {
+    "HelpshiftId": 3734, 
+    "Name": "LocationGuideIOS"
+  }, 
+  {
+    "HelpshiftId": 3735, 
+    "Name": "LocationGuideAndroid"
+  }, 
+  {
+    "HelpshiftId": 3736, 
+    "Name": "TournamentTerms"
   }
 ]

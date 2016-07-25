@@ -521,7 +521,7 @@
   }, 
   {
     "BooleanValue": "", 
-    "Name": "MAX_WORKERS", 
+    "Name": "MAX_CHESTS_OPENING", 
     "NumberArray": "", 
     "NumberValue": 1, 
     "StringArray": "", 
@@ -787,15 +787,7 @@
     "BooleanValue": "", 
     "Name": "TV_WEIGHT_TOP3_VS_TOP3", 
     "NumberArray": "", 
-    "NumberValue": 100, 
-    "StringArray": "", 
-    "TextValue": ""
-  }, 
-  {
-    "BooleanValue": "", 
-    "Name": "TV_WEIGHT_TOP3_VS_TOP10", 
-    "NumberArray": "", 
-    "NumberValue": 70, 
+    "NumberValue": 200, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -803,15 +795,7 @@
     "BooleanValue": "", 
     "Name": "TV_WEIGHT_TOP10_VS_TOP10", 
     "NumberArray": "", 
-    "NumberValue": 60, 
-    "StringArray": "", 
-    "TextValue": ""
-  }, 
-  {
-    "BooleanValue": "", 
-    "Name": "TV_WEIGHT_TOP10_VS_TOP20", 
-    "NumberArray": "", 
-    "NumberValue": 55, 
+    "NumberValue": 150, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -819,15 +803,7 @@
     "BooleanValue": "", 
     "Name": "TV_WEIGHT_TOP20_VS_TOP20", 
     "NumberArray": "", 
-    "NumberValue": 50, 
-    "StringArray": "", 
-    "TextValue": ""
-  }, 
-  {
-    "BooleanValue": "", 
-    "Name": "TV_WEIGHT_TOP20_VS_TOP50", 
-    "NumberArray": "", 
-    "NumberValue": 45, 
+    "NumberValue": 120, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -835,7 +811,7 @@
     "BooleanValue": "", 
     "Name": "TV_WEIGHT_TOP50_VS_TOP50", 
     "NumberArray": "", 
-    "NumberValue": 40, 
+    "NumberValue": 110, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -843,7 +819,7 @@
     "BooleanValue": "", 
     "Name": "TV_WEIGHT_OTHERS", 
     "NumberArray": "", 
-    "NumberValue": 40, 
+    "NumberValue": 100, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -1484,6 +1460,478 @@
     "Name": "ELDER_KICK_COOLDOWN", 
     "NumberArray": "", 
     "NumberValue": 1200, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAMEROOM_UNLOCK_EXP_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 8, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MAX_GAME_ROOMS", 
+    "NumberArray": "", 
+    "NumberValue": 1, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAME_ROOM_PRIZE_POOL_COSTS", 
+    "NumberArray": 500, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2500, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 14000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 100000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 900000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAME_ROOM_PRIZE_POOL_REWARDS", 
+    "NumberArray": 50, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 250, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 1000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 10000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 100000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAME_ROOM_PREPARATION_TIMES", 
+    "NumberArray": 900, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 7200, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAME_ROOM_DURATIONS", 
+    "NumberArray": 3600, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 7200, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 10800, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 14400, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 28800, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 86400, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 172800, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 259200, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAME_ROOM_MAX_CAPACITIES", 
+    "NumberArray": 5, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 10, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 50, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 100, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 200, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 500, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 1000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 5000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 10000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 20000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 50000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 100000, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAMEROOM_JOIN_COOLDOWN_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 86400, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAME_ROOM_TROPHY_LIMIT_PER_DURATION", 
+    "NumberArray": 100, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 150, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 200, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 250, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 300, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 400, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 500, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 600, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MIN_GAME_ROOM_CHEST_TIME", 
+    "NumberArray": "", 
+    "NumberValue": 4, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CARD_COUNT_FOR_MIN_GAME_ROOM_CHEST_TIME", 
+    "NumberArray": "", 
+    "NumberValue": 8, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MAX_GAME_ROOM_CHEST_TIME", 
+    "NumberArray": "", 
+    "NumberValue": 336, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CARD_COUNT_FOR_MAX_GAME_ROOM_CHEST_TIME", 
+    "NumberArray": "", 
+    "NumberValue": 15000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CHEST_SPEED_UP_COST_PER_HOUR", 
+    "NumberArray": "", 
+    "NumberValue": 6, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ENABLE_GAMEROOM_SPECTATE", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ENABLE_GAMEROOM_SPECTATE_NOT_JOINED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAME_ROOM_CHEST_AVERAGE_STACK_SIZE", 
+    "NumberArray": "", 
+    "NumberValue": 50, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAME_ROOM_CHEST_MIN_DIFFERENT_CARDS", 
+    "NumberArray": "", 
+    "NumberValue": 4, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAME_ROOM_CHEST_MAX_DIFFERENT_CARDS", 
+    "NumberArray": "", 
+    "NumberValue": 40, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAME_ROOM_CHEST_MIN_GOLD_PER_CARD", 
+    "NumberArray": "", 
+    "NumberValue": 5, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAME_ROOM_CHEST_MAX_GOLD_PER_CARD", 
+    "NumberArray": "", 
+    "NumberValue": 7, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "CAP_SUMMONER_ACCURATE_MANA", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MED_GAME_ROOM_CHEST_TIME", 
+    "NumberArray": "", 
+    "NumberValue": 120, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CARD_COUNT_FOR_MED_GAME_ROOM_CHEST_TIME", 
+    "NumberArray": "", 
+    "NumberValue": 1000, 
     "StringArray": "", 
     "TextValue": ""
   }

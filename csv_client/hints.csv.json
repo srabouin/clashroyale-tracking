@@ -11,6 +11,8 @@
     "MinTrophies": "int", 
     "Name": "String", 
     "NotBeenInClan": "boolean", 
+    "NotBeenInTournament": "boolean", 
+    "NotCreatedTournament": "boolean", 
     "TID": "String", 
     "iOSTID": "String"
   }, 
@@ -26,6 +28,8 @@
     "MinTrophies": "", 
     "Name": "welcome message", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_WELCOME", 
     "iOSTID": ""
   }, 
@@ -41,6 +45,8 @@
     "MinTrophies": "", 
     "Name": "winning condition1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_WINNING_CONDITION1", 
     "iOSTID": ""
   }, 
@@ -56,6 +62,8 @@
     "MinTrophies": "", 
     "Name": "winning condition2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_WINNING_CONDITION2", 
     "iOSTID": ""
   }, 
@@ -71,6 +79,8 @@
     "MinTrophies": "", 
     "Name": "elixir basics1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_ELIXIR_BASICS1", 
     "iOSTID": ""
   }, 
@@ -86,6 +96,8 @@
     "MinTrophies": "", 
     "Name": "elixir basics2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_ELIXIR_BASICS2", 
     "iOSTID": ""
   }, 
@@ -101,6 +113,8 @@
     "MinTrophies": "", 
     "Name": "elixir basics3", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_ELIXIR_BASICS3", 
     "iOSTID": ""
   }, 
@@ -116,6 +130,8 @@
     "MinTrophies": "", 
     "Name": "exp level1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_EXP_LEVEL1", 
     "iOSTID": ""
   }, 
@@ -131,6 +147,8 @@
     "MinTrophies": "", 
     "Name": "exp level2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_EXP_LEVEL2", 
     "iOSTID": ""
   }, 
@@ -146,6 +164,8 @@
     "MinTrophies": "", 
     "Name": "battle basics1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BATTLE_BASICS1", 
     "iOSTID": ""
   }, 
@@ -161,6 +181,8 @@
     "MinTrophies": "", 
     "Name": "battle basics2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BATTLE_BASICS2", 
     "iOSTID": ""
   }, 
@@ -176,6 +198,8 @@
     "MinTrophies": "", 
     "Name": "join clan", 
     "NotBeenInClan": true, 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_JOIN_CLAN", 
     "iOSTID": ""
   }, 
@@ -191,6 +215,8 @@
     "MinTrophies": "", 
     "Name": "tv royale", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_TV_ROYALE", 
     "iOSTID": ""
   }, 
@@ -206,6 +232,8 @@
     "MinTrophies": "", 
     "Name": "arrows", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_ARROWS", 
     "iOSTID": ""
   }, 
@@ -221,6 +249,8 @@
     "MinTrophies": "", 
     "Name": "giant", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_GIANT", 
     "iOSTID": ""
   }, 
@@ -236,6 +266,8 @@
     "MinTrophies": "", 
     "Name": "knight and archers", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_KIGHT_AND_ARCHERS", 
     "iOSTID": ""
   }, 
@@ -251,6 +283,8 @@
     "MinTrophies": "", 
     "Name": "area damage", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_AREA_DAMAGE", 
     "iOSTID": ""
   }, 
@@ -266,6 +300,8 @@
     "MinTrophies": "", 
     "Name": "free chest", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_FREE_CHEST", 
     "iOSTID": ""
   }, 
@@ -281,6 +317,8 @@
     "MinTrophies": "", 
     "Name": "match duration", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_MATCH_DURATION", 
     "iOSTID": ""
   }, 
@@ -296,6 +334,8 @@
     "MinTrophies": "", 
     "Name": "overtime", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_OVERTIME", 
     "iOSTID": ""
   }, 
@@ -311,6 +351,8 @@
     "MinTrophies": "", 
     "Name": "card types", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CARD_TYPES", 
     "iOSTID": ""
   }, 
@@ -326,6 +368,8 @@
     "MinTrophies": "", 
     "Name": "card rarities", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CARD_RARITIES", 
     "iOSTID": ""
   }, 
@@ -341,6 +385,8 @@
     "MinTrophies": "", 
     "Name": "deck basics1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_DECK_BASICS1", 
     "iOSTID": ""
   }, 
@@ -356,6 +402,8 @@
     "MinTrophies": "", 
     "Name": "deck basics2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_DECK_BASICS2", 
     "iOSTID": ""
   }, 
@@ -371,6 +419,8 @@
     "MinTrophies": "", 
     "Name": "achievements", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_ACHIEVEMENT_GEMS", 
     "iOSTID": ""
   }, 
@@ -386,6 +436,8 @@
     "MinTrophies": "", 
     "Name": "clan rewards", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_DONATE_REWARDS", 
     "iOSTID": ""
   }, 
@@ -401,6 +453,8 @@
     "MinTrophies": "", 
     "Name": "king activation", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_KING_ACTIVATION", 
     "iOSTID": ""
   }, 
@@ -416,6 +470,8 @@
     "MinTrophies": "", 
     "Name": "king daughters", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_KING_DAUGHTERS", 
     "iOSTID": ""
   }, 
@@ -431,6 +487,8 @@
     "MinTrophies": "", 
     "Name": "story1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_STORY1", 
     "iOSTID": ""
   }, 
@@ -446,6 +504,8 @@
     "MinTrophies": "", 
     "Name": "building lifetime", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BUILDING_LIFETIME", 
     "iOSTID": ""
   }, 
@@ -461,6 +521,8 @@
     "MinTrophies": "", 
     "Name": "crown towers", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_TOWER_TARGETING", 
     "iOSTID": ""
   }, 
@@ -476,6 +538,8 @@
     "MinTrophies": "", 
     "Name": "building targeting", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BUILDINGS", 
     "iOSTID": ""
   }, 
@@ -491,6 +555,8 @@
     "MinTrophies": "", 
     "Name": "common max level", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_COMMON_MAX_LEVEL", 
     "iOSTID": ""
   }, 
@@ -506,6 +572,8 @@
     "MinTrophies": "", 
     "Name": "rare max level", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_RARE_MAX_LEVEL", 
     "iOSTID": ""
   }, 
@@ -521,6 +589,8 @@
     "MinTrophies": "", 
     "Name": "epic max level", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_EPIC_MAX_LEVEL", 
     "iOSTID": ""
   }, 
@@ -536,6 +606,8 @@
     "MinTrophies": "", 
     "Name": "card upgrades", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CARD_UPGRADES", 
     "iOSTID": ""
   }, 
@@ -551,6 +623,8 @@
     "MinTrophies": "", 
     "Name": "card unlocks", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CARD_UNLOCKS", 
     "iOSTID": ""
   }, 
@@ -566,6 +640,8 @@
     "MinTrophies": "", 
     "Name": "card shop", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_SHOP_CYCLE", 
     "iOSTID": ""
   }, 
@@ -581,6 +657,8 @@
     "MinTrophies": "", 
     "Name": "chest basics1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CHEST_BASICS1", 
     "iOSTID": ""
   }, 
@@ -596,6 +674,8 @@
     "MinTrophies": "", 
     "Name": "chest basics2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CHEST_BASICS2", 
     "iOSTID": ""
   }, 
@@ -611,6 +691,8 @@
     "MinTrophies": "", 
     "Name": "chest basics3", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CHEST_BASICS3", 
     "iOSTID": ""
   }, 
@@ -626,6 +708,8 @@
     "MinTrophies": "", 
     "Name": "chest basics4", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CHEST_BASICS4", 
     "iOSTID": ""
   }, 
@@ -641,6 +725,8 @@
     "MinTrophies": "", 
     "Name": "chest_basics5", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CHEST_BASICS5", 
     "iOSTID": ""
   }, 
@@ -656,6 +742,8 @@
     "MinTrophies": "", 
     "Name": "matchmaking", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_MATCHMAKING", 
     "iOSTID": ""
   }, 
@@ -671,6 +759,8 @@
     "MinTrophies": "", 
     "Name": "bomb tower", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BOMB_TOWER", 
     "iOSTID": ""
   }, 
@@ -686,6 +776,8 @@
     "MinTrophies": "", 
     "Name": "tank1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_TANK1", 
     "iOSTID": ""
   }, 
@@ -701,6 +793,8 @@
     "MinTrophies": "", 
     "Name": "tank2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_TANK2", 
     "iOSTID": ""
   }, 
@@ -716,6 +810,8 @@
     "MinTrophies": "", 
     "Name": "prince", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_PRINCE", 
     "iOSTID": ""
   }, 
@@ -731,6 +827,8 @@
     "MinTrophies": "", 
     "Name": "tesla", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BATTLE_TESLA", 
     "iOSTID": ""
   }, 
@@ -746,6 +844,8 @@
     "MinTrophies": "", 
     "Name": "deploy area", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_DEPLOY_AREA", 
     "iOSTID": ""
   }, 
@@ -761,6 +861,8 @@
     "MinTrophies": "", 
     "Name": "taunts", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_TAUNTS", 
     "iOSTID": ""
   }, 
@@ -776,6 +878,8 @@
     "MinTrophies": "", 
     "Name": "three crowns", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_THREE_CROWNS", 
     "iOSTID": ""
   }, 
@@ -791,6 +895,8 @@
     "MinTrophies": "", 
     "Name": "balloon", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BALLOON", 
     "iOSTID": ""
   }, 
@@ -806,6 +912,8 @@
     "MinTrophies": "", 
     "Name": "double elixir", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_DOUBLE_ELIXIR", 
     "iOSTID": ""
   }, 
@@ -821,6 +929,8 @@
     "MinTrophies": "", 
     "Name": "huts", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_HUTS", 
     "iOSTID": ""
   }, 
@@ -836,6 +946,8 @@
     "MinTrophies": "", 
     "Name": "tombstone", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_TOMBSTONE", 
     "iOSTID": ""
   }, 
@@ -851,6 +963,8 @@
     "MinTrophies": "", 
     "Name": "rage", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_RAGE", 
     "iOSTID": ""
   }, 
@@ -866,6 +980,8 @@
     "MinTrophies": "", 
     "Name": "direct damage", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_DIRECT_DAMAGE", 
     "iOSTID": ""
   }, 
@@ -881,6 +997,8 @@
     "MinTrophies": "", 
     "Name": "elixir basics4", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_MAX_ELIXIR", 
     "iOSTID": ""
   }, 
@@ -896,6 +1014,8 @@
     "MinTrophies": "", 
     "Name": "starting hand", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_STARTING_HAND", 
     "iOSTID": ""
   }, 
@@ -911,6 +1031,8 @@
     "MinTrophies": "", 
     "Name": "crown chest", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CROWN_CHEST", 
     "iOSTID": ""
   }, 
@@ -926,6 +1048,8 @@
     "MinTrophies": "", 
     "Name": "pro1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BATTLE_PRO1", 
     "iOSTID": ""
   }, 
@@ -941,6 +1065,8 @@
     "MinTrophies": "", 
     "Name": "pro2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BATTLE_PRO2", 
     "iOSTID": ""
   }, 
@@ -956,6 +1082,8 @@
     "MinTrophies": "", 
     "Name": "pro3", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BATTLE_PRO3", 
     "iOSTID": ""
   }, 
@@ -971,6 +1099,8 @@
     "MinTrophies": "", 
     "Name": "pro4", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BATTLE_PRO4", 
     "iOSTID": ""
   }, 
@@ -986,6 +1116,8 @@
     "MinTrophies": "", 
     "Name": "pro5", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BATTLE_PRO5", 
     "iOSTID": ""
   }, 
@@ -1001,6 +1133,8 @@
     "MinTrophies": "", 
     "Name": "targeting", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_TARGETING", 
     "iOSTID": ""
   }, 
@@ -1016,6 +1150,8 @@
     "MinTrophies": "", 
     "Name": "inferno", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_INFERNO", 
     "iOSTID": ""
   }, 
@@ -1031,6 +1167,8 @@
     "MinTrophies": "", 
     "Name": "giant skeleton", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_GIANT_SKELETON", 
     "iOSTID": ""
   }, 
@@ -1046,6 +1184,8 @@
     "MinTrophies": "", 
     "Name": "epic sunday", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_EPIC_SUNDAY", 
     "iOSTID": ""
   }, 
@@ -1061,6 +1201,8 @@
     "MinTrophies": "", 
     "Name": "gems from chests", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_GEMS_FROM_CHESTS", 
     "iOSTID": ""
   }, 
@@ -1076,6 +1218,8 @@
     "MinTrophies": "", 
     "Name": "hog rider", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_HOG_RIDER", 
     "iOSTID": ""
   }, 
@@ -1091,6 +1235,8 @@
     "MinTrophies": "", 
     "Name": "golem1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_GOLEM1", 
     "iOSTID": ""
   }, 
@@ -1106,6 +1252,8 @@
     "MinTrophies": "", 
     "Name": "golem2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_GOLEM2", 
     "iOSTID": ""
   }, 
@@ -1121,6 +1269,8 @@
     "MinTrophies": "", 
     "Name": "golem3", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_GOLEM3", 
     "iOSTID": ""
   }, 
@@ -1136,6 +1286,8 @@
     "MinTrophies": "", 
     "Name": "pekkas", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_PEKKAS", 
     "iOSTID": ""
   }, 
@@ -1151,6 +1303,8 @@
     "MinTrophies": "", 
     "Name": "trophy count", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_TROPHY_COUNT", 
     "iOSTID": ""
   }, 
@@ -1166,6 +1320,8 @@
     "MinTrophies": "", 
     "Name": "lightning", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_LIGHTNING", 
     "iOSTID": ""
   }, 
@@ -1181,6 +1337,8 @@
     "MinTrophies": "", 
     "Name": "bomber", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_BOMBER", 
     "iOSTID": ""
   }, 
@@ -1196,6 +1354,8 @@
     "MinTrophies": "", 
     "Name": "pekka", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_PEKKA", 
     "iOSTID": ""
   }, 
@@ -1211,6 +1371,8 @@
     "MinTrophies": "", 
     "Name": "wizard", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_WIZARD", 
     "iOSTID": ""
   }, 
@@ -1226,6 +1388,8 @@
     "MinTrophies": "", 
     "Name": "trophy dropping", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_TROPHY_DROPPING", 
     "iOSTID": ""
   }, 
@@ -1241,12 +1405,14 @@
     "MinTrophies": "", 
     "Name": "friendly battles1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_FRIENDLY_BATTLES1", 
     "iOSTID": ""
   }, 
   {
     "AndroidTID": "", 
-    "MaxArena": 6, 
+    "MaxArena": "", 
     "MaxExpLevel": "", 
     "MaxNpcWins": "", 
     "MaxTrophies": "", 
@@ -1256,6 +1422,8 @@
     "MinTrophies": "", 
     "Name": "friendly battles2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_FRIENDLY_BATTLES2", 
     "iOSTID": ""
   }, 
@@ -1271,6 +1439,8 @@
     "MinTrophies": "", 
     "Name": "friendly battles3", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_FRIENDLY_BATTLES3", 
     "iOSTID": ""
   }, 
@@ -1286,6 +1456,8 @@
     "MinTrophies": "", 
     "Name": "magical chest", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CHEST_MAGICAL", 
     "iOSTID": ""
   }, 
@@ -1301,6 +1473,8 @@
     "MinTrophies": "", 
     "Name": "super magical chest1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CHEST_SUPER_MAGICAL1", 
     "iOSTID": ""
   }, 
@@ -1316,6 +1490,8 @@
     "MinTrophies": "", 
     "Name": "super magical chest2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CHEST_SUPER_MAGICAL2", 
     "iOSTID": ""
   }, 
@@ -1331,6 +1507,8 @@
     "MinTrophies": "", 
     "Name": "giant chest1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CHEST_GIANT1", 
     "iOSTID": ""
   }, 
@@ -1346,6 +1524,8 @@
     "MinTrophies": "", 
     "Name": "giant chest2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_CHEST_GIANT2", 
     "iOSTID": ""
   }, 
@@ -1361,6 +1541,8 @@
     "MinTrophies": "", 
     "Name": "legendary card1", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_LEGENDARY_CARDS1", 
     "iOSTID": ""
   }, 
@@ -1376,6 +1558,8 @@
     "MinTrophies": "", 
     "Name": "legendary card2", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_LEGENDARY_CARDS2", 
     "iOSTID": ""
   }, 
@@ -1391,6 +1575,8 @@
     "MinTrophies": "", 
     "Name": "three musketeers", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_THREE_MUSKETEERS", 
     "iOSTID": ""
   }, 
@@ -1406,6 +1592,8 @@
     "MinTrophies": "", 
     "Name": "dark prince", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_DARK_PRINCE", 
     "iOSTID": ""
   }, 
@@ -1421,6 +1609,8 @@
     "MinTrophies": "", 
     "Name": "ice wizard", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_ICE_WIZARD", 
     "iOSTID": ""
   }, 
@@ -1436,6 +1626,8 @@
     "MinTrophies": "", 
     "Name": "princess", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_PRINCESS", 
     "iOSTID": ""
   }, 
@@ -1451,6 +1643,8 @@
     "MinTrophies": "", 
     "Name": "royal giant", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_ROYAL_GIANT", 
     "iOSTID": ""
   }, 
@@ -1466,6 +1660,8 @@
     "MinTrophies": "", 
     "Name": "poison", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_POISON", 
     "iOSTID": ""
   }, 
@@ -1481,6 +1677,8 @@
     "MinTrophies": "", 
     "Name": "legendary max level", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_LEGENDARY_MAX_LEVEL", 
     "iOSTID": ""
   }, 
@@ -1496,6 +1694,8 @@
     "MinTrophies": "", 
     "Name": "gold per win", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_GOLD_PER_WIN", 
     "iOSTID": ""
   }, 
@@ -1511,6 +1711,8 @@
     "MinTrophies": "", 
     "Name": "lava hound", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_LAVA_HOUND", 
     "iOSTID": ""
   }, 
@@ -1526,6 +1728,8 @@
     "MinTrophies": "", 
     "Name": "miner", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_MINER", 
     "iOSTID": ""
   }, 
@@ -1541,6 +1745,8 @@
     "MinTrophies": "", 
     "Name": "sparky", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_SPARKY", 
     "iOSTID": ""
   }, 
@@ -1556,7 +1762,264 @@
     "MinTrophies": "", 
     "Name": "legendary card3", 
     "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
     "TID": "TID_HINT_LEGENDARY_CARDS3", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": 8, 
+    "MinExpLevel": "", 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "bowler", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_BOWLER", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": 6, 
+    "MinExpLevel": "", 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "rage log", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_RAGE_LOG", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 8, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney1", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": true, 
+    "TID": "TID_HINT_TOURNEY1", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": 7, 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 5, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney2", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_TOURNEY2", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 8, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney3", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_TOURNEY3", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 8, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney4", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_TOURNEY4", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 8, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney5", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_TOURNEY5", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 8, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney6", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_TOURNEY6", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 8, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney7", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_TOURNEY7", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 8, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney8", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_TOURNEY8", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 8, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney9", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_TOURNEY9", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 6, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney10", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_TOURNEY10", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 8, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney11", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": true, 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_TOURNEY11", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 7, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney12", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": true, 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_TOURNEY12", 
+    "iOSTID": ""
+  }, 
+  {
+    "AndroidTID": "", 
+    "MaxArena": "", 
+    "MaxExpLevel": "", 
+    "MaxNpcWins": "", 
+    "MaxTrophies": "", 
+    "MinArena": "", 
+    "MinExpLevel": 8, 
+    "MinNpcWins": "", 
+    "MinTrophies": "", 
+    "Name": "tourney13", 
+    "NotBeenInClan": "", 
+    "NotBeenInTournament": "", 
+    "NotCreatedTournament": "", 
+    "TID": "TID_HINT_TOURNEY13", 
     "iOSTID": ""
   }
 ]
