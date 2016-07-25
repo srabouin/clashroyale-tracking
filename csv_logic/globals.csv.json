@@ -512,8 +512,16 @@
     "TextValue": ""
   }, 
   {
-    "BooleanValue": "", 
+    "BooleanValue": true, 
     "Name": "RECORD_TOUCH_EVENTS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "RECORD_TOUCH_COORDINATES", 
     "NumberArray": "", 
     "NumberValue": "", 
     "StringArray": "", 
@@ -563,7 +571,7 @@
     "BooleanValue": "", 
     "Name": "REDUCED_TOWER_DAMAGE_PERCENT", 
     "NumberArray": "", 
-    "NumberValue": 50, 
+    "NumberValue": 40, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -1292,6 +1300,78 @@
     "Name": "DEVICE_LINK_MAX_LEVEL_FOR_ACCOUNT_OVERRIDE", 
     "NumberArray": "", 
     "NumberValue": 5, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "SORT_REWARDS_BY_RARITY", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "DAMAGE_FROM_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SUPER_CHEST_CHANCE", 
+    "NumberArray": "", 
+    "NumberValue": 1000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "AVOID_WATER_ATTACK_POS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ALLOW_AOE_ATTACKS_WITHOUT_TARGET", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "EXTRA_SIGHT_RANGE_TO_BUILDING", 
+    "NumberArray": "", 
+    "NumberValue": 0, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "REFRESH_ARENA_IN_LOADING_FINISHED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "EXTRA_SIGHT_RANGE_TO_CROWN_TOWERS", 
+    "NumberArray": "", 
+    "NumberValue": 2000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "MULTIPLE_DECKS_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
     "StringArray": "", 
     "TextValue": ""
   }

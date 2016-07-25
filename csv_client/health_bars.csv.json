@@ -70,5 +70,17 @@
     "ShowEnemyAlways": true, 
     "ShowOwnAlways": true, 
     "YOffset": 20
+  }, 
+  {
+    "EnemyExportName": "hp_shield_enemy_medium", 
+    "FileName": "sc/ui.sc", 
+    "MinimumHitpointValue": "", 
+    "Name": "Shield", 
+    "NoDamageEnemyExportName": "hp_shield_enemy_number", 
+    "NoDamagePlayerExportName": "hp_player_number", 
+    "PlayerExportName": "hp_shield_player_medium", 
+    "ShowEnemyAlways": true, 
+    "ShowOwnAlways": "", 
+    "YOffset": ""
   }
 ]

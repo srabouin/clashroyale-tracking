@@ -16,9 +16,9 @@
   }, 
   {
     "ButtonTID": "TID_NEWS_ITEM_BUTTON", 
-    "ButtonUrl": "https://clashroyale.com/blog/news/balance-changes-coming-2-19", 
+    "ButtonUrl": "http://clashroyale.com/blog/news/upcoming-balance-changes", 
     "Enabled": true, 
-    "ID": 124, 
+    "ID": 121, 
     "IconExportName": "", 
     "IconSWF": "", 
     "ImageExportName": "", 
@@ -26,22 +26,7 @@
     "InfoTID": "TID_NEWS_UPDATE_TEXT", 
     "ItemExportName": "news_item", 
     "ItemSWF": "sc/ui.sc", 
-    "Name": "Update2", 
-    "TID": "TID_NEWS_UPDATE_TITLE"
-  }, 
-  {
-    "ButtonTID": "TID_NEWS_ITEM_BUTTON", 
-    "ButtonUrl": "https://clashroyale.com/blog/news/global-launch-announcement", 
-    "Enabled": true, 
-    "ID": 124, 
-    "IconExportName": "", 
-    "IconSWF": "", 
-    "ImageExportName": "", 
-    "ImageSWF": "", 
-    "InfoTID": "TID_NEWS_UPDATE_TEXT2", 
-    "ItemExportName": "news_item", 
-    "ItemSWF": "sc/ui.sc", 
     "Name": "Update", 
-    "TID": "TID_NEWS_UPDATE_TITLE2"
+    "TID": "TID_NEWS_UPDATE_TITLE"
   }
 ]

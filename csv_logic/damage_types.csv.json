@@ -1,6 +1,5 @@
 [
   {
-    "BankDamage": "int", 
     "Buff": "String", 
     "BuffTime": "int", 
     "DamageEffect": "String", 
@@ -11,7 +10,6 @@
     "NumberOfJumps": "int"
   }, 
   {
-    "BankDamage": "", 
     "Buff": "", 
     "BuffTime": "", 
     "DamageEffect": "Damage", 
@@ -22,7 +20,6 @@
     "NumberOfJumps": ""
   }, 
   {
-    "BankDamage": "", 
     "Buff": "", 
     "BuffTime": "", 
     "DamageEffect": "Damage", 
@@ -33,8 +30,7 @@
     "NumberOfJumps": ""
   }, 
   {
-    "BankDamage": 25, 
-    "Buff": "Poisoned", 
+    "Buff": "Poison", 
     "BuffTime": "", 
     "DamageEffect": "Damage", 
     "Efficiency": 100, 

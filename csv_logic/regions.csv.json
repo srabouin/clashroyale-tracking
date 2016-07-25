@@ -3,1602 +3,1834 @@
     "DisplayName": "String", 
     "IsCountry": "boolean", 
     "Name": "String", 
+    "RegionPopup": "boolean", 
     "TID": "String"
   }, 
   {
     "DisplayName": "Europe", 
     "IsCountry": false, 
     "Name": "_EU", 
+    "RegionPopup": true, 
     "TID": "TID_EUROPE"
   }, 
   {
     "DisplayName": "North America", 
     "IsCountry": false, 
     "Name": "_NA", 
+    "RegionPopup": true, 
     "TID": "TID_NORTH_AMERICA"
   }, 
   {
     "DisplayName": "South America", 
     "IsCountry": false, 
     "Name": "_SA", 
+    "RegionPopup": true, 
     "TID": "TID_SOUTH_AMERICA"
   }, 
   {
     "DisplayName": "Asia", 
     "IsCountry": false, 
     "Name": "_AS", 
+    "RegionPopup": true, 
     "TID": "TID_ASIA"
   }, 
   {
     "DisplayName": "Australia", 
     "IsCountry": false, 
     "Name": "_AU", 
+    "RegionPopup": true, 
     "TID": "TID_AUSTRALIA"
   }, 
   {
     "DisplayName": "Africa", 
     "IsCountry": false, 
     "Name": "_AF", 
+    "RegionPopup": true, 
     "TID": "TID_AFRICA"
   }, 
   {
     "DisplayName": "International", 
     "IsCountry": false, 
     "Name": "_INT", 
+    "RegionPopup": true, 
     "TID": "TID_INTERNATIONAL"
   }, 
   {
     "DisplayName": "Afghanistan", 
     "IsCountry": true, 
     "Name": "AF", 
+    "RegionPopup": true, 
     "TID": "TID_AFGHANISTAN"
   }, 
   {
     "DisplayName": "\u00c5land Islands", 
     "IsCountry": true, 
     "Name": "AX", 
+    "RegionPopup": true, 
     "TID": "TID_ALAND_ISLANDS"
   }, 
   {
     "DisplayName": "Albania", 
     "IsCountry": true, 
     "Name": "AL", 
+    "RegionPopup": true, 
     "TID": "TID_ALBANIA"
   }, 
   {
     "DisplayName": "Algeria", 
     "IsCountry": true, 
     "Name": "DZ", 
+    "RegionPopup": true, 
     "TID": "TID_ALGERIA"
   }, 
   {
     "DisplayName": "American Samoa", 
     "IsCountry": true, 
     "Name": "AS", 
+    "RegionPopup": true, 
     "TID": "TID_AMERICAN_SAMOA"
   }, 
   {
     "DisplayName": "Andorra", 
     "IsCountry": true, 
     "Name": "AD", 
+    "RegionPopup": true, 
     "TID": "TID_ANDORRA"
   }, 
   {
     "DisplayName": "Angola", 
     "IsCountry": true, 
     "Name": "AO", 
+    "RegionPopup": true, 
     "TID": "TID_ANGOLA"
   }, 
   {
     "DisplayName": "Anguilla", 
     "IsCountry": true, 
     "Name": "AI", 
+    "RegionPopup": true, 
     "TID": "TID_ANGUILLA"
   }, 
   {
     "DisplayName": "Antarctica", 
     "IsCountry": true, 
     "Name": "AQ", 
+    "RegionPopup": true, 
     "TID": "TID_ANTARCTICA"
   }, 
   {
     "DisplayName": "Antigua and Barbuda", 
     "IsCountry": true, 
     "Name": "AG", 
+    "RegionPopup": true, 
     "TID": "TID_ANTIGUA_AND_BARBUDA"
   }, 
   {
     "DisplayName": "Argentina", 
     "IsCountry": true, 
     "Name": "AR", 
+    "RegionPopup": true, 
     "TID": "TID_ARGENTINA"
   }, 
   {
     "DisplayName": "Armenia", 
     "IsCountry": true, 
     "Name": "AM", 
+    "RegionPopup": true, 
     "TID": "TID_ARMENIA"
   }, 
   {
     "DisplayName": "Aruba", 
     "IsCountry": true, 
     "Name": "AW", 
+    "RegionPopup": true, 
     "TID": "TID_ARUBA"
   }, 
   {
     "DisplayName": "Ascension Island", 
     "IsCountry": true, 
     "Name": "AC", 
+    "RegionPopup": true, 
     "TID": "TID_ASCENSION_ISLAND"
   }, 
   {
     "DisplayName": "Australia", 
     "IsCountry": true, 
     "Name": "AU", 
+    "RegionPopup": true, 
     "TID": "TID_AUSTRALIA"
   }, 
   {
     "DisplayName": "Austria", 
     "IsCountry": true, 
     "Name": "AT", 
+    "RegionPopup": true, 
     "TID": "TID_AUSTRIA"
   }, 
   {
     "DisplayName": "Azerbaijan", 
     "IsCountry": true, 
     "Name": "AZ", 
+    "RegionPopup": true, 
     "TID": "TID_AZERBAIJAN"
   }, 
   {
     "DisplayName": "Bahamas", 
     "IsCountry": true, 
     "Name": "BS", 
+    "RegionPopup": true, 
     "TID": "TID_BAHAMAS"
   }, 
   {
     "DisplayName": "Bahrain", 
     "IsCountry": true, 
     "Name": "BH", 
+    "RegionPopup": true, 
     "TID": "TID_BAHRAIN"
   }, 
   {
     "DisplayName": "Bangladesh", 
     "IsCountry": true, 
     "Name": "BD", 
+    "RegionPopup": true, 
     "TID": "TID_BANGLADESH"
   }, 
   {
     "DisplayName": "Barbados", 
     "IsCountry": true, 
     "Name": "BB", 
+    "RegionPopup": true, 
     "TID": "TID_BARBADOS"
   }, 
   {
     "DisplayName": "Belarus", 
     "IsCountry": true, 
     "Name": "BY", 
+    "RegionPopup": true, 
     "TID": "TID_BELARUS"
   }, 
   {
     "DisplayName": "Belgium", 
     "IsCountry": true, 
     "Name": "BE", 
+    "RegionPopup": true, 
     "TID": "TID_BELGIUM"
   }, 
   {
     "DisplayName": "Belize", 
     "IsCountry": true, 
     "Name": "BZ", 
+    "RegionPopup": true, 
     "TID": "TID_BELIZE"
   }, 
   {
     "DisplayName": "Benin", 
     "IsCountry": true, 
     "Name": "BJ", 
+    "RegionPopup": true, 
     "TID": "TID_BENIN"
   }, 
   {
     "DisplayName": "Bermuda", 
     "IsCountry": true, 
     "Name": "BM", 
+    "RegionPopup": true, 
     "TID": "TID_BERMUDA"
   }, 
   {
     "DisplayName": "Bhutan", 
     "IsCountry": true, 
     "Name": "BT", 
+    "RegionPopup": true, 
     "TID": "TID_BHUTAN"
   }, 
   {
     "DisplayName": "Bolivia", 
     "IsCountry": true, 
     "Name": "BO", 
+    "RegionPopup": true, 
     "TID": "TID_BOLIVIA"
   }, 
   {
     "DisplayName": "Bosnia and Herzegovina", 
     "IsCountry": true, 
     "Name": "BA", 
+    "RegionPopup": true, 
     "TID": "TID_BOSNIA_AND_HERZEGOVINA"
   }, 
   {
     "DisplayName": "Botswana", 
     "IsCountry": true, 
     "Name": "BW", 
+    "RegionPopup": true, 
     "TID": "TID_BOTSWANA"
   }, 
   {
     "DisplayName": "Bouvet Island", 
     "IsCountry": true, 
     "Name": "BV", 
+    "RegionPopup": true, 
     "TID": "TID_BOUVET_ISLAND"
   }, 
   {
     "DisplayName": "Brazil", 
     "IsCountry": true, 
     "Name": "BR", 
+    "RegionPopup": true, 
     "TID": "TID_BRAZIL"
   }, 
   {
     "DisplayName": "British Indian Ocean Territory", 
     "IsCountry": true, 
     "Name": "IO", 
+    "RegionPopup": true, 
     "TID": "TID_BRITISH_INDIAN_OCEAN_TERRITORY"
   }, 
   {
     "DisplayName": "British Virgin Islands", 
     "IsCountry": true, 
     "Name": "VG", 
+    "RegionPopup": true, 
     "TID": "TID_BRITISH_VIRGIN_ISLANDS"
   }, 
   {
     "DisplayName": "Brunei", 
     "IsCountry": true, 
     "Name": "BN", 
+    "RegionPopup": true, 
     "TID": "TID_BRUNEI"
   }, 
   {
     "DisplayName": "Bulgaria", 
     "IsCountry": true, 
     "Name": "BG", 
+    "RegionPopup": true, 
     "TID": "TID_BULGARIA"
   }, 
   {
     "DisplayName": "Burkina Faso", 
     "IsCountry": true, 
     "Name": "BF", 
+    "RegionPopup": true, 
     "TID": "TID_BURKINA_FASO"
   }, 
   {
     "DisplayName": "Burundi", 
     "IsCountry": true, 
     "Name": "BI", 
+    "RegionPopup": true, 
     "TID": "TID_BURUNDI"
   }, 
   {
     "DisplayName": "Cambodia", 
     "IsCountry": true, 
     "Name": "KH", 
+    "RegionPopup": true, 
     "TID": "TID_CAMBODIA"
   }, 
   {
     "DisplayName": "Cameroon", 
     "IsCountry": true, 
     "Name": "CM", 
+    "RegionPopup": true, 
     "TID": "TID_CAMEROON"
   }, 
   {
     "DisplayName": "Canada", 
     "IsCountry": true, 
     "Name": "CA", 
+    "RegionPopup": true, 
     "TID": "TID_CANADA"
   }, 
   {
     "DisplayName": "Canary Islands", 
     "IsCountry": true, 
     "Name": "IC", 
+    "RegionPopup": true, 
     "TID": "TID_CANARY_ISLANDS"
   }, 
   {
     "DisplayName": "Cape Verde", 
     "IsCountry": true, 
     "Name": "CV", 
+    "RegionPopup": true, 
     "TID": "TID_CAPE_VERDE"
   }, 
   {
     "DisplayName": "Caribbean Netherlands", 
     "IsCountry": true, 
     "Name": "BQ", 
+    "RegionPopup": true, 
     "TID": "TID_CARIBBEAN_NETHERLANDS"
   }, 
   {
     "DisplayName": "Cayman Islands", 
     "IsCountry": true, 
     "Name": "KY", 
+    "RegionPopup": true, 
     "TID": "TID_CAYMAN_ISLANDS"
   }, 
   {
     "DisplayName": "Central African Republic", 
     "IsCountry": true, 
     "Name": "CF", 
+    "RegionPopup": true, 
     "TID": "TID_CENTRAL_AFRICAN_REPUBLIC"
   }, 
   {
     "DisplayName": "Ceuta and Melilla", 
     "IsCountry": true, 
     "Name": "EA", 
+    "RegionPopup": true, 
     "TID": "TID_CEUTA_AND_MELILLA"
   }, 
   {
     "DisplayName": "Chad", 
     "IsCountry": true, 
     "Name": "TD", 
+    "RegionPopup": true, 
     "TID": "TID_CHAD"
   }, 
   {
     "DisplayName": "Chile", 
     "IsCountry": true, 
     "Name": "CL", 
+    "RegionPopup": true, 
     "TID": "TID_CHILE"
   }, 
   {
     "DisplayName": "China", 
     "IsCountry": true, 
     "Name": "CN", 
+    "RegionPopup": true, 
     "TID": "TID_CHINA"
   }, 
   {
     "DisplayName": "Christmas Island", 
     "IsCountry": true, 
     "Name": "CX", 
+    "RegionPopup": true, 
     "TID": "TID_CHRISTMAS_ISLAND"
   }, 
   {
     "DisplayName": "Cocos (Keeling) Islands", 
     "IsCountry": true, 
     "Name": "CC", 
+    "RegionPopup": true, 
     "TID": "TID_COCOS_KEELING_ISLANDS"
   }, 
   {
     "DisplayName": "Colombia", 
     "IsCountry": true, 
     "Name": "CO", 
+    "RegionPopup": true, 
     "TID": "TID_COLOMBIA"
   }, 
   {
     "DisplayName": "Comoros", 
     "IsCountry": true, 
     "Name": "KM", 
+    "RegionPopup": true, 
     "TID": "TID_COMOROS"
   }, 
   {
     "DisplayName": "Congo (DRC)", 
     "IsCountry": true, 
     "Name": "CG", 
+    "RegionPopup": true, 
     "TID": "TID_CONGO_DRC"
   }, 
   {
     "DisplayName": "Congo (Republic)", 
     "IsCountry": true, 
     "Name": "CD", 
+    "RegionPopup": true, 
     "TID": "TID_CONGO_REPUBLIC"
   }, 
   {
     "DisplayName": "Cook Islands", 
     "IsCountry": true, 
     "Name": "CK", 
+    "RegionPopup": true, 
     "TID": "TID_COOK_ISLANDS"
   }, 
   {
     "DisplayName": "Costa Rica", 
     "IsCountry": true, 
     "Name": "CR", 
+    "RegionPopup": true, 
     "TID": "TID_COSTA_RICA"
   }, 
   {
     "DisplayName": "C\u00f4te d\u2019Ivoire", 
     "IsCountry": true, 
     "Name": "CI", 
+    "RegionPopup": true, 
     "TID": "TID_COTE_DIVOIRE"
   }, 
   {
     "DisplayName": "Croatia", 
     "IsCountry": true, 
     "Name": "HR", 
+    "RegionPopup": true, 
     "TID": "TID_CROATIA"
   }, 
   {
     "DisplayName": "Cuba", 
     "IsCountry": true, 
     "Name": "CU", 
+    "RegionPopup": true, 
     "TID": "TID_CUBA"
   }, 
   {
     "DisplayName": "Cura\u00e7ao", 
     "IsCountry": true, 
     "Name": "CW", 
+    "RegionPopup": true, 
     "TID": "TID_CURACAO"
   }, 
   {
     "DisplayName": "Cyprus", 
     "IsCountry": true, 
     "Name": "CY", 
+    "RegionPopup": true, 
     "TID": "TID_CYPRUS"
   }, 
   {
     "DisplayName": "Czech Republic", 
     "IsCountry": true, 
     "Name": "CZ", 
+    "RegionPopup": true, 
     "TID": "TID_CZECH_REPUBLIC"
   }, 
   {
     "DisplayName": "Denmark", 
     "IsCountry": true, 
     "Name": "DK", 
+    "RegionPopup": true, 
     "TID": "TID_DENMARK"
   }, 
   {
     "DisplayName": "Diego Garcia", 
     "IsCountry": true, 
     "Name": "DG", 
+    "RegionPopup": true, 
     "TID": "TID_DIEGO_GARCIA"
   }, 
   {
     "DisplayName": "Djibouti", 
     "IsCountry": true, 
     "Name": "DJ", 
+    "RegionPopup": true, 
     "TID": "TID_DJIBOUTI"
   }, 
   {
     "DisplayName": "Dominica", 
     "IsCountry": true, 
     "Name": "DM", 
+    "RegionPopup": true, 
     "TID": "TID_DOMINICA"
   }, 
   {
     "DisplayName": "Dominican Republic", 
     "IsCountry": true, 
     "Name": "DO", 
+    "RegionPopup": true, 
     "TID": "TID_DOMINICAN_REPUBLIC"
   }, 
   {
     "DisplayName": "Ecuador", 
     "IsCountry": true, 
     "Name": "EC", 
+    "RegionPopup": true, 
     "TID": "TID_ECUADOR"
   }, 
   {
     "DisplayName": "Egypt", 
     "IsCountry": true, 
     "Name": "EG", 
+    "RegionPopup": true, 
     "TID": "TID_EGYPT"
   }, 
   {
     "DisplayName": "El Salvador", 
     "IsCountry": true, 
     "Name": "SV", 
+    "RegionPopup": true, 
     "TID": "TID_EL_SALVADOR"
   }, 
   {
     "DisplayName": "Equatorial Guinea", 
     "IsCountry": true, 
     "Name": "GQ", 
+    "RegionPopup": true, 
     "TID": "TID_EQUATORIAL_GUINEA"
   }, 
   {
     "DisplayName": "Eritrea", 
     "IsCountry": true, 
     "Name": "ER", 
+    "RegionPopup": true, 
     "TID": "TID_ERITREA"
   }, 
   {
     "DisplayName": "Estonia", 
     "IsCountry": true, 
     "Name": "EE", 
+    "RegionPopup": true, 
     "TID": "TID_ESTONIA"
   }, 
   {
     "DisplayName": "Ethiopia", 
     "IsCountry": true, 
     "Name": "ET", 
+    "RegionPopup": true, 
     "TID": "TID_ETHIOPIA"
   }, 
   {
     "DisplayName": "Falkland Islands", 
     "IsCountry": true, 
     "Name": "FK", 
+    "RegionPopup": true, 
     "TID": "TID_FALKLAND_ISLANDS"
   }, 
   {
     "DisplayName": "Faroe Islands", 
     "IsCountry": true, 
     "Name": "FO", 
+    "RegionPopup": true, 
     "TID": "TID_FAROE_ISLANDS"
   }, 
   {
     "DisplayName": "Fiji", 
     "IsCountry": true, 
     "Name": "FJ", 
+    "RegionPopup": true, 
     "TID": "TID_FIJI"
   }, 
   {
     "DisplayName": "Finland", 
     "IsCountry": true, 
     "Name": "FI", 
+    "RegionPopup": true, 
     "TID": "TID_FINLAND"
   }, 
   {
     "DisplayName": "France", 
     "IsCountry": true, 
     "Name": "FR", 
+    "RegionPopup": true, 
     "TID": "TID_FRANCE"
   }, 
   {
     "DisplayName": "French Guiana", 
     "IsCountry": true, 
     "Name": "GF", 
+    "RegionPopup": true, 
     "TID": "TID_FRENCH_GUIANA"
   }, 
   {
     "DisplayName": "French Polynesia", 
     "IsCountry": true, 
     "Name": "PF", 
+    "RegionPopup": true, 
     "TID": "TID_FRENCH_POLYNESIA"
   }, 
   {
     "DisplayName": "French Southern Territories", 
     "IsCountry": true, 
     "Name": "TF", 
+    "RegionPopup": true, 
     "TID": "TID_FRENCH_SOUTHERN_TERRITORIES"
   }, 
   {
     "DisplayName": "Gabon", 
     "IsCountry": true, 
     "Name": "GA", 
+    "RegionPopup": true, 
     "TID": "TID_GABON"
   }, 
   {
     "DisplayName": "Gambia", 
     "IsCountry": true, 
     "Name": "GM", 
+    "RegionPopup": true, 
     "TID": "TID_GAMBIA"
   }, 
   {
     "DisplayName": "Georgia", 
     "IsCountry": true, 
     "Name": "GE", 
+    "RegionPopup": true, 
     "TID": "TID_GEORGIA"
   }, 
   {
     "DisplayName": "Germany", 
     "IsCountry": true, 
     "Name": "DE", 
+    "RegionPopup": true, 
     "TID": "TID_GERMANY"
   }, 
   {
     "DisplayName": "Ghana", 
     "IsCountry": true, 
     "Name": "GH", 
+    "RegionPopup": true, 
     "TID": "TID_GHANA"
   }, 
   {
     "DisplayName": "Gibraltar", 
     "IsCountry": true, 
     "Name": "GI", 
+    "RegionPopup": true, 
     "TID": "TID_GIBRALTAR"
   }, 
   {
     "DisplayName": "Greece", 
     "IsCountry": true, 
     "Name": "GR", 
+    "RegionPopup": true, 
     "TID": "TID_GREECE"
   }, 
   {
     "DisplayName": "Greenland", 
     "IsCountry": true, 
     "Name": "GL", 
+    "RegionPopup": true, 
     "TID": "TID_GREENLAND"
   }, 
   {
     "DisplayName": "Grenada", 
     "IsCountry": true, 
     "Name": "GD", 
+    "RegionPopup": true, 
     "TID": "TID_GRENADA"
   }, 
   {
     "DisplayName": "Guadeloupe", 
     "IsCountry": true, 
     "Name": "GP", 
+    "RegionPopup": true, 
     "TID": "TID_GUADELOUPE"
   }, 
   {
     "DisplayName": "Guam", 
     "IsCountry": true, 
     "Name": "GU", 
+    "RegionPopup": true, 
     "TID": "TID_GUAM"
   }, 
   {
     "DisplayName": "Guatemala", 
     "IsCountry": true, 
     "Name": "GT", 
+    "RegionPopup": true, 
     "TID": "TID_GUATEMALA"
   }, 
   {
     "DisplayName": "Guernsey", 
     "IsCountry": true, 
     "Name": "GG", 
+    "RegionPopup": true, 
     "TID": "TID_GUERNSEY"
   }, 
   {
     "DisplayName": "Guinea", 
     "IsCountry": true, 
     "Name": "GN", 
+    "RegionPopup": true, 
     "TID": "TID_GUINEA"
   }, 
   {
     "DisplayName": "Guinea-Bissau", 
     "IsCountry": true, 
     "Name": "GW", 
+    "RegionPopup": true, 
     "TID": "TID_GUINEA-BISSAU"
   }, 
   {
     "DisplayName": "Guyana", 
     "IsCountry": true, 
     "Name": "GY", 
+    "RegionPopup": true, 
     "TID": "TID_GUYANA"
   }, 
   {
     "DisplayName": "Haiti", 
     "IsCountry": true, 
     "Name": "HT", 
+    "RegionPopup": true, 
     "TID": "TID_HAITI"
   }, 
   {
     "DisplayName": "Heard & McDonald Islands", 
     "IsCountry": true, 
     "Name": "HM", 
+    "RegionPopup": true, 
     "TID": "TID_HEARD_MCDONALD_ISLANDS"
   }, 
   {
     "DisplayName": "Honduras", 
     "IsCountry": true, 
     "Name": "HN", 
+    "RegionPopup": true, 
     "TID": "TID_HONDURAS"
   }, 
   {
     "DisplayName": "Hong Kong", 
     "IsCountry": true, 
     "Name": "HK", 
+    "RegionPopup": true, 
     "TID": "TID_HONG_KONG"
   }, 
   {
     "DisplayName": "Hungary", 
     "IsCountry": true, 
     "Name": "HU", 
+    "RegionPopup": true, 
     "TID": "TID_HUNGARY"
   }, 
   {
     "DisplayName": "Iceland", 
     "IsCountry": true, 
     "Name": "IS", 
+    "RegionPopup": true, 
     "TID": "TID_ICELAND"
   }, 
   {
     "DisplayName": "India", 
     "IsCountry": true, 
     "Name": "IN", 
+    "RegionPopup": true, 
     "TID": "TID_INDIA"
   }, 
   {
     "DisplayName": "Indonesia", 
     "IsCountry": true, 
     "Name": "ID", 
+    "RegionPopup": true, 
     "TID": "TID_INDONESIA"
   }, 
   {
     "DisplayName": "Iran", 
     "IsCountry": true, 
     "Name": "IR", 
+    "RegionPopup": true, 
     "TID": "TID_IRAN"
   }, 
   {
     "DisplayName": "Iraq", 
     "IsCountry": true, 
     "Name": "IQ", 
+    "RegionPopup": true, 
     "TID": "TID_IRAQ"
   }, 
   {
     "DisplayName": "Ireland", 
     "IsCountry": true, 
     "Name": "IE", 
+    "RegionPopup": true, 
     "TID": "TID_IRELAND"
   }, 
   {
     "DisplayName": "Isle of Man", 
     "IsCountry": true, 
     "Name": "IM", 
+    "RegionPopup": true, 
     "TID": "TID_ISLE_OF_MAN"
   }, 
   {
     "DisplayName": "Israel", 
     "IsCountry": true, 
     "Name": "IL", 
+    "RegionPopup": true, 
     "TID": "TID_ISRAEL"
   }, 
   {
     "DisplayName": "Italy", 
     "IsCountry": true, 
     "Name": "IT", 
+    "RegionPopup": true, 
     "TID": "TID_ITALY"
   }, 
   {
     "DisplayName": "Jamaica", 
     "IsCountry": true, 
     "Name": "JM", 
+    "RegionPopup": true, 
     "TID": "TID_JAMAICA"
   }, 
   {
     "DisplayName": "Japan", 
     "IsCountry": true, 
     "Name": "JP", 
+    "RegionPopup": true, 
     "TID": "TID_JAPAN"
   }, 
   {
     "DisplayName": "Jersey", 
     "IsCountry": true, 
     "Name": "JE", 
+    "RegionPopup": true, 
     "TID": "TID_JERSEY"
   }, 
   {
     "DisplayName": "Jordan", 
     "IsCountry": true, 
     "Name": "JO", 
+    "RegionPopup": true, 
     "TID": "TID_JORDAN"
   }, 
   {
     "DisplayName": "Kazakhstan", 
     "IsCountry": true, 
     "Name": "KZ", 
+    "RegionPopup": true, 
     "TID": "TID_KAZAKHSTAN"
   }, 
   {
     "DisplayName": "Kenya", 
     "IsCountry": true, 
     "Name": "KE", 
+    "RegionPopup": true, 
     "TID": "TID_KENYA"
   }, 
   {
     "DisplayName": "Kiribati", 
     "IsCountry": true, 
     "Name": "KI", 
+    "RegionPopup": true, 
     "TID": "TID_KIRIBATI"
   }, 
   {
     "DisplayName": "Kosovo", 
     "IsCountry": true, 
     "Name": "XK", 
+    "RegionPopup": true, 
     "TID": "TID_KOSOVO"
   }, 
   {
     "DisplayName": "Kuwait", 
     "IsCountry": true, 
     "Name": "KW", 
+    "RegionPopup": true, 
     "TID": "TID_KUWAIT"
   }, 
   {
     "DisplayName": "Kyrgyzstan", 
     "IsCountry": true, 
     "Name": "KG", 
+    "RegionPopup": true, 
     "TID": "TID_KYRGYZSTAN"
   }, 
   {
     "DisplayName": "Laos", 
     "IsCountry": true, 
     "Name": "LA", 
+    "RegionPopup": true, 
     "TID": "TID_LAOS"
   }, 
   {
     "DisplayName": "Latvia", 
     "IsCountry": true, 
     "Name": "LV", 
+    "RegionPopup": true, 
     "TID": "TID_LATVIA"
   }, 
   {
     "DisplayName": "Lebanon", 
     "IsCountry": true, 
     "Name": "LB", 
+    "RegionPopup": true, 
     "TID": "TID_LEBANON"
   }, 
   {
     "DisplayName": "Lesotho", 
     "IsCountry": true, 
     "Name": "LS", 
+    "RegionPopup": true, 
     "TID": "TID_LESOTHO"
   }, 
   {
     "DisplayName": "Liberia", 
     "IsCountry": true, 
     "Name": "LR", 
+    "RegionPopup": true, 
     "TID": "TID_LIBERIA"
   }, 
   {
     "DisplayName": "Libya", 
     "IsCountry": true, 
     "Name": "LY", 
+    "RegionPopup": true, 
     "TID": "TID_LIBYA"
   }, 
   {
     "DisplayName": "Liechtenstein", 
     "IsCountry": true, 
     "Name": "LI", 
+    "RegionPopup": true, 
     "TID": "TID_LIECHTENSTEIN"
   }, 
   {
     "DisplayName": "Lithuania", 
     "IsCountry": true, 
     "Name": "LT", 
+    "RegionPopup": true, 
     "TID": "TID_LITHUANIA"
   }, 
   {
     "DisplayName": "Luxembourg", 
     "IsCountry": true, 
     "Name": "LU", 
+    "RegionPopup": true, 
     "TID": "TID_LUXEMBOURG"
   }, 
   {
     "DisplayName": "Macau", 
     "IsCountry": true, 
     "Name": "MO", 
+    "RegionPopup": true, 
     "TID": "TID_MACAU"
   }, 
   {
     "DisplayName": "Macedonia (FYROM)", 
     "IsCountry": true, 
     "Name": "MK", 
+    "RegionPopup": true, 
     "TID": "TID_MACEDONIA_FYROM"
   }, 
   {
     "DisplayName": "Madagascar", 
     "IsCountry": true, 
     "Name": "MG", 
+    "RegionPopup": true, 
     "TID": "TID_MADAGASCAR"
   }, 
   {
     "DisplayName": "Malawi", 
     "IsCountry": true, 
     "Name": "MW", 
+    "RegionPopup": true, 
     "TID": "TID_MALAWI"
   }, 
   {
     "DisplayName": "Malaysia", 
     "IsCountry": true, 
     "Name": "MY", 
+    "RegionPopup": true, 
     "TID": "TID_MALAYSIA"
   }, 
   {
     "DisplayName": "Maldives", 
     "IsCountry": true, 
     "Name": "MV", 
+    "RegionPopup": true, 
     "TID": "TID_MALDIVES"
   }, 
   {
     "DisplayName": "Mali", 
     "IsCountry": true, 
     "Name": "ML", 
+    "RegionPopup": true, 
     "TID": "TID_MALI"
   }, 
   {
     "DisplayName": "Malta", 
     "IsCountry": true, 
     "Name": "MT", 
+    "RegionPopup": true, 
     "TID": "TID_MALTA"
   }, 
   {
     "DisplayName": "Marshall Islands", 
     "IsCountry": true, 
     "Name": "MH", 
+    "RegionPopup": true, 
     "TID": "TID_MARSHALL_ISLANDS"
   }, 
   {
     "DisplayName": "Martinique", 
     "IsCountry": true, 
     "Name": "MQ", 
+    "RegionPopup": true, 
     "TID": "TID_MARTINIQUE"
   }, 
   {
     "DisplayName": "Mauritania", 
     "IsCountry": true, 
     "Name": "MR", 
+    "RegionPopup": true, 
     "TID": "TID_MAURITANIA"
   }, 
   {
     "DisplayName": "Mauritius", 
     "IsCountry": true, 
     "Name": "MU", 
+    "RegionPopup": true, 
     "TID": "TID_MAURITIUS"
   }, 
   {
     "DisplayName": "Mayotte", 
     "IsCountry": true, 
     "Name": "YT", 
+    "RegionPopup": true, 
     "TID": "TID_MAYOTTE"
   }, 
   {
     "DisplayName": "Mexico", 
     "IsCountry": true, 
     "Name": "MX", 
+    "RegionPopup": true, 
     "TID": "TID_MEXICO"
   }, 
   {
     "DisplayName": "Micronesia", 
     "IsCountry": true, 
     "Name": "FM", 
+    "RegionPopup": true, 
     "TID": "TID_MICRONESIA"
   }, 
   {
     "DisplayName": "Moldova", 
     "IsCountry": true, 
     "Name": "MD", 
+    "RegionPopup": true, 
     "TID": "TID_MOLDOVA"
   }, 
   {
     "DisplayName": "Monaco", 
     "IsCountry": true, 
     "Name": "MC", 
+    "RegionPopup": true, 
     "TID": "TID_MONACO"
   }, 
   {
     "DisplayName": "Mongolia", 
     "IsCountry": true, 
     "Name": "MN", 
+    "RegionPopup": true, 
     "TID": "TID_MONGOLIA"
   }, 
   {
     "DisplayName": "Montenegro", 
     "IsCountry": true, 
     "Name": "ME", 
+    "RegionPopup": true, 
     "TID": "TID_MONTENEGRO"
   }, 
   {
     "DisplayName": "Montserrat", 
     "IsCountry": true, 
     "Name": "MS", 
+    "RegionPopup": true, 
     "TID": "TID_MONTSERRAT"
   }, 
   {
     "DisplayName": "Morocco", 
     "IsCountry": true, 
     "Name": "MA", 
+    "RegionPopup": true, 
     "TID": "TID_MOROCCO"
   }, 
   {
     "DisplayName": "Mozambique", 
     "IsCountry": true, 
     "Name": "MZ", 
+    "RegionPopup": true, 
     "TID": "TID_MOZAMBIQUE"
   }, 
   {
     "DisplayName": "Myanmar (Burma)", 
     "IsCountry": true, 
     "Name": "MM", 
+    "RegionPopup": true, 
     "TID": "TID_MYANMAR_BURMA"
   }, 
   {
     "DisplayName": "Namibia", 
     "IsCountry": true, 
     "Name": "NA", 
+    "RegionPopup": true, 
     "TID": "TID_NAMIBIA"
   }, 
   {
     "DisplayName": "Nauru", 
     "IsCountry": true, 
     "Name": "NR", 
+    "RegionPopup": true, 
     "TID": "TID_NAURU"
   }, 
   {
     "DisplayName": "Nepal", 
     "IsCountry": true, 
     "Name": "NP", 
+    "RegionPopup": true, 
     "TID": "TID_NEPAL"
   }, 
   {
     "DisplayName": "Netherlands", 
     "IsCountry": true, 
     "Name": "NL", 
+    "RegionPopup": true, 
     "TID": "TID_NETHERLANDS"
   }, 
   {
     "DisplayName": "New Caledonia", 
     "IsCountry": true, 
     "Name": "NC", 
+    "RegionPopup": true, 
     "TID": "TID_NEW_CALEDONIA"
   }, 
   {
     "DisplayName": "New Zealand", 
     "IsCountry": true, 
     "Name": "NZ", 
+    "RegionPopup": true, 
     "TID": "TID_NEW_ZEALAND"
   }, 
   {
     "DisplayName": "Nicaragua", 
     "IsCountry": true, 
     "Name": "NI", 
+    "RegionPopup": true, 
     "TID": "TID_NICARAGUA"
   }, 
   {
     "DisplayName": "Niger", 
     "IsCountry": true, 
     "Name": "NE", 
+    "RegionPopup": true, 
     "TID": "TID_NIGER"
   }, 
   {
     "DisplayName": "Nigeria", 
     "IsCountry": true, 
     "Name": "NG", 
+    "RegionPopup": true, 
     "TID": "TID_NIGERIA"
   }, 
   {
     "DisplayName": "Niue", 
     "IsCountry": true, 
     "Name": "NU", 
+    "RegionPopup": true, 
     "TID": "TID_NIUE"
   }, 
   {
     "DisplayName": "Norfolk Island", 
     "IsCountry": true, 
     "Name": "NF", 
+    "RegionPopup": true, 
     "TID": "TID_NORFOLK_ISLAND"
   }, 
   {
     "DisplayName": "North Korea", 
     "IsCountry": true, 
     "Name": "KP", 
+    "RegionPopup": true, 
     "TID": "TID_NORTH_KOREA"
   }, 
   {
     "DisplayName": "Northern Mariana Islands", 
     "IsCountry": true, 
     "Name": "MP", 
+    "RegionPopup": true, 
     "TID": "TID_NORTHERN_MARIANA_ISLANDS"
   }, 
   {
     "DisplayName": "Norway", 
     "IsCountry": true, 
     "Name": "NO", 
+    "RegionPopup": true, 
     "TID": "TID_NORWAY"
   }, 
   {
     "DisplayName": "Oman", 
     "IsCountry": true, 
     "Name": "OM", 
+    "RegionPopup": true, 
     "TID": "TID_OMAN"
   }, 
   {
     "DisplayName": "Pakistan", 
     "IsCountry": true, 
     "Name": "PK", 
+    "RegionPopup": true, 
     "TID": "TID_PAKISTAN"
   }, 
   {
     "DisplayName": "Palau", 
     "IsCountry": true, 
     "Name": "PW", 
+    "RegionPopup": true, 
     "TID": "TID_PALAU"
   }, 
   {
     "DisplayName": "Palestine", 
     "IsCountry": true, 
     "Name": "PS", 
+    "RegionPopup": true, 
     "TID": "TID_PALESTINE"
   }, 
   {
     "DisplayName": "Panama", 
     "IsCountry": true, 
     "Name": "PA", 
+    "RegionPopup": true, 
     "TID": "TID_PANAMA"
   }, 
   {
     "DisplayName": "Papua New Guinea", 
     "IsCountry": true, 
     "Name": "PG", 
+    "RegionPopup": true, 
     "TID": "TID_PAPUA_NEW_GUINEA"
   }, 
   {
     "DisplayName": "Paraguay", 
     "IsCountry": true, 
     "Name": "PY", 
+    "RegionPopup": true, 
     "TID": "TID_PARAGUAY"
   }, 
   {
     "DisplayName": "Peru", 
     "IsCountry": true, 
     "Name": "PE", 
+    "RegionPopup": true, 
     "TID": "TID_PERU"
   }, 
   {
     "DisplayName": "Philippines", 
     "IsCountry": true, 
     "Name": "PH", 
+    "RegionPopup": true, 
     "TID": "TID_PHILIPPINES"
   }, 
   {
     "DisplayName": "Pitcairn Islands", 
     "IsCountry": true, 
     "Name": "PN", 
+    "RegionPopup": true, 
     "TID": "TID_PITCAIRN_ISLANDS"
   }, 
   {
     "DisplayName": "Poland", 
     "IsCountry": true, 
     "Name": "PL", 
+    "RegionPopup": true, 
     "TID": "TID_POLAND"
   }, 
   {
     "DisplayName": "Portugal", 
     "IsCountry": true, 
     "Name": "PT", 
+    "RegionPopup": true, 
     "TID": "TID_PORTUGAL"
   }, 
   {
     "DisplayName": "Puerto Rico", 
     "IsCountry": true, 
     "Name": "PR", 
+    "RegionPopup": true, 
     "TID": "TID_PUERTO_RICO"
   }, 
   {
     "DisplayName": "Qatar", 
     "IsCountry": true, 
     "Name": "QA", 
+    "RegionPopup": true, 
     "TID": "TID_QATAR"
   }, 
   {
     "DisplayName": "R\u00e9union", 
     "IsCountry": true, 
     "Name": "RE", 
+    "RegionPopup": true, 
     "TID": "TID_REUNION"
   }, 
   {
     "DisplayName": "Romania", 
     "IsCountry": true, 
     "Name": "RO", 
+    "RegionPopup": true, 
     "TID": "TID_ROMANIA"
   }, 
   {
     "DisplayName": "Russia", 
     "IsCountry": true, 
     "Name": "RU", 
+    "RegionPopup": true, 
     "TID": "TID_RUSSIA"
   }, 
   {
     "DisplayName": "Rwanda", 
     "IsCountry": true, 
     "Name": "RW", 
+    "RegionPopup": true, 
     "TID": "TID_RWANDA"
   }, 
   {
     "DisplayName": "Saint Barth\u00e9lemy", 
     "IsCountry": true, 
     "Name": "BL", 
+    "RegionPopup": true, 
     "TID": "TID_SAINT_BARTHELEMY"
   }, 
   {
     "DisplayName": "Saint Helena", 
     "IsCountry": true, 
     "Name": "SH", 
+    "RegionPopup": true, 
     "TID": "TID_SAINT_HELENA"
   }, 
   {
     "DisplayName": "Saint Kitts and Nevis", 
     "IsCountry": true, 
     "Name": "KN", 
+    "RegionPopup": true, 
     "TID": "TID_SAINT_KITTS_AND_NEVIS"
   }, 
   {
     "DisplayName": "Saint Lucia", 
     "IsCountry": true, 
     "Name": "LC", 
+    "RegionPopup": true, 
     "TID": "TID_SAINT_LUCIA"
   }, 
   {
     "DisplayName": "Saint Martin", 
     "IsCountry": true, 
     "Name": "MF", 
+    "RegionPopup": true, 
     "TID": "TID_SAINT_MARTIN"
   }, 
   {
     "DisplayName": "Saint Pierre and Miquelon", 
     "IsCountry": true, 
     "Name": "PM", 
+    "RegionPopup": true, 
     "TID": "TID_SAINT_PIERRE_AND_MIQUELON"
   }, 
   {
     "DisplayName": "Samoa", 
     "IsCountry": true, 
     "Name": "WS", 
+    "RegionPopup": true, 
     "TID": "TID_SAMOA"
   }, 
   {
     "DisplayName": "San Marino", 
     "IsCountry": true, 
     "Name": "SM", 
+    "RegionPopup": true, 
     "TID": "TID_SAN_MARINO"
   }, 
   {
     "DisplayName": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
     "IsCountry": true, 
     "Name": "ST", 
+    "RegionPopup": true, 
     "TID": "TID_SAO_TOME_AND_PRINCIPE"
   }, 
   {
     "DisplayName": "Saudi Arabia", 
     "IsCountry": true, 
     "Name": "SA", 
+    "RegionPopup": true, 
     "TID": "TID_SAUDI_ARABIA"
   }, 
   {
     "DisplayName": "Senegal", 
     "IsCountry": true, 
     "Name": "SN", 
+    "RegionPopup": true, 
     "TID": "TID_SENEGAL"
   }, 
   {
     "DisplayName": "Serbia", 
     "IsCountry": true, 
     "Name": "RS", 
+    "RegionPopup": true, 
     "TID": "TID_SERBIA"
   }, 
   {
     "DisplayName": "Seychelles", 
     "IsCountry": true, 
     "Name": "SC", 
+    "RegionPopup": true, 
     "TID": "TID_SEYCHELLES"
   }, 
   {
     "DisplayName": "Sierra Leone", 
     "IsCountry": true, 
     "Name": "SL", 
+    "RegionPopup": true, 
     "TID": "TID_SIERRA_LEONE"
   }, 
   {
     "DisplayName": "Singapore", 
     "IsCountry": true, 
     "Name": "SG", 
+    "RegionPopup": true, 
     "TID": "TID_SINGAPORE"
   }, 
   {
     "DisplayName": "Sint Maarten", 
     "IsCountry": true, 
     "Name": "SX", 
+    "RegionPopup": true, 
     "TID": "TID_SINT_MAARTEN"
   }, 
   {
     "DisplayName": "Slovakia", 
     "IsCountry": true, 
     "Name": "SK", 
+    "RegionPopup": true, 
     "TID": "TID_SLOVAKIA"
   }, 
   {
     "DisplayName": "Slovenia", 
     "IsCountry": true, 
     "Name": "SI", 
+    "RegionPopup": true, 
     "TID": "TID_SLOVENIA"
   }, 
   {
     "DisplayName": "Solomon Islands", 
     "IsCountry": true, 
     "Name": "SB", 
+    "RegionPopup": true, 
     "TID": "TID_SOLOMON_ISLANDS"
   }, 
   {
     "DisplayName": "Somalia", 
     "IsCountry": true, 
     "Name": "SO", 
+    "RegionPopup": true, 
     "TID": "TID_SOMALIA"
   }, 
   {
     "DisplayName": "South Africa", 
     "IsCountry": true, 
     "Name": "ZA", 
+    "RegionPopup": true, 
     "TID": "TID_SOUTH_AFRICA"
   }, 
   {
     "DisplayName": "South Korea", 
     "IsCountry": true, 
     "Name": "KR", 
+    "RegionPopup": true, 
     "TID": "TID_SOUTH_KOREA"
   }, 
   {
     "DisplayName": "South Sudan", 
     "IsCountry": true, 
     "Name": "SS", 
+    "RegionPopup": true, 
     "TID": "TID_SOUTH_SUDAN"
   }, 
   {
     "DisplayName": "Spain", 
     "IsCountry": true, 
     "Name": "ES", 
+    "RegionPopup": true, 
     "TID": "TID_SPAIN"
   }, 
   {
     "DisplayName": "Sri Lanka", 
     "IsCountry": true, 
     "Name": "LK", 
+    "RegionPopup": true, 
     "TID": "TID_SRI_LANKA"
   }, 
   {
     "DisplayName": "St. Vincent & Grenadines", 
     "IsCountry": true, 
     "Name": "VC", 
+    "RegionPopup": true, 
     "TID": "TID_ST_VINCENT_GRENADINES"
   }, 
   {
     "DisplayName": "Sudan", 
     "IsCountry": true, 
     "Name": "SD", 
+    "RegionPopup": true, 
     "TID": "TID_SUDAN"
   }, 
   {
     "DisplayName": "Suriname", 
     "IsCountry": true, 
     "Name": "SR", 
+    "RegionPopup": true, 
     "TID": "TID_SURINAME"
   }, 
   {
     "DisplayName": "Svalbard and Jan Mayen", 
     "IsCountry": true, 
     "Name": "SJ", 
+    "RegionPopup": true, 
     "TID": "TID_SVALBARD_AND_JAN_MAYEN"
   }, 
   {
     "DisplayName": "Swaziland", 
     "IsCountry": true, 
     "Name": "SZ", 
+    "RegionPopup": true, 
     "TID": "TID_SWAZILAND"
   }, 
   {
     "DisplayName": "Sweden", 
     "IsCountry": true, 
     "Name": "SE", 
+    "RegionPopup": true, 
     "TID": "TID_SWEDEN"
   }, 
   {
     "DisplayName": "Switzerland", 
     "IsCountry": true, 
     "Name": "CH", 
+    "RegionPopup": true, 
     "TID": "TID_SWITZERLAND"
   }, 
   {
     "DisplayName": "Syria", 
     "IsCountry": true, 
     "Name": "SY", 
+    "RegionPopup": true, 
     "TID": "TID_SYRIA"
   }, 
   {
     "DisplayName": "Taiwan", 
     "IsCountry": true, 
     "Name": "TW", 
+    "RegionPopup": true, 
     "TID": "TID_TAIWAN"
   }, 
   {
     "DisplayName": "Tajikistan", 
     "IsCountry": true, 
     "Name": "TJ", 
+    "RegionPopup": true, 
     "TID": "TID_TAJIKISTAN"
   }, 
   {
     "DisplayName": "Tanzania", 
     "IsCountry": true, 
     "Name": "TZ", 
+    "RegionPopup": true, 
     "TID": "TID_TANZANIA"
   }, 
   {
     "DisplayName": "Thailand", 
     "IsCountry": true, 
     "Name": "TH", 
+    "RegionPopup": true, 
     "TID": "TID_THAILAND"
   }, 
   {
     "DisplayName": "Timor-Leste", 
     "IsCountry": true, 
     "Name": "TL", 
+    "RegionPopup": true, 
     "TID": "TID_TIMOR-LESTE"
   }, 
   {
     "DisplayName": "Togo", 
     "IsCountry": true, 
     "Name": "TG", 
+    "RegionPopup": true, 
     "TID": "TID_TOGO"
   }, 
   {
     "DisplayName": "Tokelau", 
     "IsCountry": true, 
     "Name": "TK", 
+    "RegionPopup": true, 
     "TID": "TID_TOKELAU"
   }, 
   {
     "DisplayName": "Tonga", 
     "IsCountry": true, 
     "Name": "TO", 
+    "RegionPopup": true, 
     "TID": "TID_TONGA"
   }, 
   {
     "DisplayName": "Trinidad and Tobago", 
     "IsCountry": true, 
     "Name": "TT", 
+    "RegionPopup": true, 
     "TID": "TID_TRINIDAD_AND_TOBAGO"
   }, 
   {
     "DisplayName": "Tristan da Cunha", 
     "IsCountry": true, 
     "Name": "TA", 
+    "RegionPopup": true, 
     "TID": "TID_TRISTAN_DA_CUNHA"
   }, 
   {
     "DisplayName": "Tunisia", 
     "IsCountry": true, 
     "Name": "TN", 
+    "RegionPopup": true, 
     "TID": "TID_TUNISIA"
   }, 
   {
     "DisplayName": "Turkey", 
     "IsCountry": true, 
     "Name": "TR", 
+    "RegionPopup": true, 
     "TID": "TID_TURKEY"
   }, 
   {
     "DisplayName": "Turkmenistan", 
     "IsCountry": true, 
     "Name": "TM", 
+    "RegionPopup": true, 
     "TID": "TID_TURKMENISTAN"
   }, 
   {
     "DisplayName": "Turks and Caicos Islands", 
     "IsCountry": true, 
     "Name": "TC", 
+    "RegionPopup": true, 
     "TID": "TID_TURKS_AND_CAICOS_ISLANDS"
   }, 
   {
     "DisplayName": "Tuvalu", 
     "IsCountry": true, 
     "Name": "TV", 
+    "RegionPopup": true, 
     "TID": "TID_TUVALU"
   }, 
   {
     "DisplayName": "U.S. Outlying Islands", 
     "IsCountry": true, 
     "Name": "UM", 
+    "RegionPopup": true, 
     "TID": "TID_US_OUTLYING_ISLANDS"
   }, 
   {
     "DisplayName": "U.S. Virgin Islands", 
     "IsCountry": true, 
     "Name": "VI", 
+    "RegionPopup": true, 
     "TID": "TID_US_VIRGIN_ISLANDS"
   }, 
   {
     "DisplayName": "Uganda", 
     "IsCountry": true, 
     "Name": "UG", 
+    "RegionPopup": true, 
     "TID": "TID_UGANDA"
   }, 
   {
     "DisplayName": "Ukraine", 
     "IsCountry": true, 
     "Name": "UA", 
+    "RegionPopup": true, 
     "TID": "TID_UKRAINE"
   }, 
   {
     "DisplayName": "United Arab Emirates", 
     "IsCountry": true, 
     "Name": "AE", 
+    "RegionPopup": true, 
     "TID": "TID_UNITED_ARAB_EMIRATES"
   }, 
   {
     "DisplayName": "United Kingdom", 
     "IsCountry": true, 
     "Name": "GB", 
+    "RegionPopup": true, 
     "TID": "TID_UNITED_KINGDOM"
   }, 
   {
     "DisplayName": "United States", 
     "IsCountry": true, 
     "Name": "US", 
+    "RegionPopup": true, 
     "TID": "TID_UNITED_STATES"
   }, 
   {
     "DisplayName": "Uruguay", 
     "IsCountry": true, 
     "Name": "UY", 
+    "RegionPopup": true, 
     "TID": "TID_URUGUAY"
   }, 
   {
     "DisplayName": "Uzbekistan", 
     "IsCountry": true, 
     "Name": "UZ", 
+    "RegionPopup": true, 
     "TID": "TID_UZBEKISTAN"
   }, 
   {
     "DisplayName": "Vanuatu", 
     "IsCountry": true, 
     "Name": "VU", 
+    "RegionPopup": true, 
     "TID": "TID_VANUATU"
   }, 
   {
     "DisplayName": "Vatican City", 
     "IsCountry": true, 
     "Name": "VA", 
+    "RegionPopup": true, 
     "TID": "TID_VATICAN_CITY"
   }, 
   {
     "DisplayName": "Venezuela", 
     "IsCountry": true, 
     "Name": "VE", 
+    "RegionPopup": true, 
     "TID": "TID_VENEZUELA"
   }, 
   {
     "DisplayName": "Vietnam", 
     "IsCountry": true, 
     "Name": "VN", 
+    "RegionPopup": true, 
     "TID": "TID_VIETNAM"
   }, 
   {
     "DisplayName": "Wallis and Futuna", 
     "IsCountry": true, 
     "Name": "WF", 
+    "RegionPopup": true, 
     "TID": "TID_WALLIS_AND_FUTUNA"
   }, 
   {
     "DisplayName": "Western Sahara", 
     "IsCountry": true, 
     "Name": "EH", 
+    "RegionPopup": true, 
     "TID": "TID_WESTERN_SAHARA"
   }, 
   {
     "DisplayName": "Yemen", 
     "IsCountry": true, 
     "Name": "YE", 
+    "RegionPopup": true, 
     "TID": "TID_YEMEN"
   }, 
   {
     "DisplayName": "Zambia", 
     "IsCountry": true, 
     "Name": "ZM", 
+    "RegionPopup": true, 
     "TID": "TID_ZAMBIA"
   }, 
   {
     "DisplayName": "Zimbabwe", 
     "IsCountry": true, 
     "Name": "ZW", 
+    "RegionPopup": true, 
     "TID": "TID_ZIMBABWE"
-  }, 
-  {
-    "DisplayName": "", 
-    "IsCountry": false, 
-    "Name": "CUSTOM1", 
-    "TID": "TID_REGION_CUSTOM1"
-  }, 
-  {
-    "DisplayName": "", 
-    "IsCountry": false, 
-    "Name": "CUSTOM2", 
-    "TID": "TID_REGION_CUSTOM2"
-  }, 
-  {
-    "DisplayName": "", 
-    "IsCountry": false, 
-    "Name": "CUSTOM3", 
-    "TID": "TID_REGION_CUSTOM3"
-  }, 
-  {
-    "DisplayName": "", 
-    "IsCountry": false, 
-    "Name": "CUSTOM4", 
-    "TID": "TID_REGION_CUSTOM4"
-  }, 
-  {
-    "DisplayName": "", 
-    "IsCountry": false, 
-    "Name": "CUSTOM5", 
-    "TID": "TID_REGION_CUSTOM5"
   }
 ]

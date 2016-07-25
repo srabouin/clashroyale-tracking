@@ -78,7 +78,7 @@
     "ShadowY": ""
   }, 
   {
-    "CollisionRadius": 496, 
+    "CollisionRadius": "", 
     "Effect": "", 
     "ExportName": "royal_red_deco", 
     "FileName": "sc/level_royal_arena.sc", 
@@ -91,7 +91,7 @@
     "ShadowY": 5
   }, 
   {
-    "CollisionRadius": 496, 
+    "CollisionRadius": "", 
     "Effect": "", 
     "ExportName": "royal_blue_deco", 
     "FileName": "sc/level_royal_arena.sc", 
@@ -819,7 +819,7 @@
     "ShadowY": 93
   }, 
   {
-    "CollisionRadius": 386, 
+    "CollisionRadius": "", 
     "Effect": "", 
     "ExportName": "training_deco1", 
     "FileName": "sc/arena_training.sc", 
@@ -832,7 +832,7 @@
     "ShadowY": ""
   }, 
   {
-    "CollisionRadius": 386, 
+    "CollisionRadius": "", 
     "Effect": "", 
     "ExportName": "training_deco2", 
     "FileName": "sc/arena_training.sc", 
@@ -1066,7 +1066,7 @@
     "ShadowY": -35
   }, 
   {
-    "CollisionRadius": 380, 
+    "CollisionRadius": "", 
     "Effect": "", 
     "ExportName": "bone_deco_left", 
     "FileName": "sc/level_bone_arena.sc", 
@@ -1079,7 +1079,7 @@
     "ShadowY": -2
   }, 
   {
-    "CollisionRadius": 380, 
+    "CollisionRadius": "", 
     "Effect": "", 
     "ExportName": "bone_deco_right", 
     "FileName": "sc/level_bone_arena.sc", 
@@ -1157,7 +1157,7 @@
     "ShadowY": -6
   }, 
   {
-    "CollisionRadius": 410, 
+    "CollisionRadius": "", 
     "Effect": "", 
     "ExportName": "dark_deco1", 
     "FileName": "sc/level_dark_arena.sc", 
@@ -1612,7 +1612,7 @@
     "ShadowY": 4
   }, 
   {
-    "CollisionRadius": 392, 
+    "CollisionRadius": "", 
     "Effect": "", 
     "ExportName": "barbarian_deco1", 
     "FileName": "sc/level_barbarian_arena.sc", 
@@ -1625,7 +1625,7 @@
     "ShadowY": 13
   }, 
   {
-    "CollisionRadius": 392, 
+    "CollisionRadius": "", 
     "Effect": "", 
     "ExportName": "barbarian_deco2", 
     "FileName": "sc/level_barbarian_arena.sc", 
@@ -2039,5 +2039,226 @@
     "ShadowSkew": "", 
     "ShadowX": "", 
     "ShadowY": ""
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_blue_sidestand1", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_blue_sidestand1", 
+    "ShadowScale": 96, 
+    "ShadowSkew": 7, 
+    "ShadowX": -4, 
+    "ShadowY": 7
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_blue_sidestand2", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_blue_sidestand2", 
+    "ShadowScale": 96, 
+    "ShadowSkew": 12, 
+    "ShadowX": -17, 
+    "ShadowY": -2
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_left_mid_tower", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_left_mid_tower", 
+    "ShadowScale": 93, 
+    "ShadowSkew": 16, 
+    "ShadowX": -2, 
+    "ShadowY": 33
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_red_sidestand1", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_red_sidestand1", 
+    "ShadowScale": 96, 
+    "ShadowSkew": 4, 
+    "ShadowX": 3, 
+    "ShadowY": 6
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_red_sidestand2", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_red_sidestand2", 
+    "ShadowScale": 96, 
+    "ShadowSkew": 8, 
+    "ShadowX": -23, 
+    "ShadowY": ""
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_right_mid_tower", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_right_mid_tower", 
+    "ShadowScale": 96, 
+    "ShadowSkew": 33, 
+    "ShadowX": -15, 
+    "ShadowY": 37
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_red_gate", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_red_gate", 
+    "ShadowScale": 98, 
+    "ShadowSkew": 22, 
+    "ShadowX": 2, 
+    "ShadowY": 7
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_blue_gate", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_blue_gate", 
+    "ShadowScale": 101, 
+    "ShadowSkew": 24, 
+    "ShadowX": -13, 
+    "ShadowY": 64
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_red_tower", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_red_tower", 
+    "ShadowScale": 96, 
+    "ShadowSkew": 5, 
+    "ShadowX": "", 
+    "ShadowY": -18
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_blue_tower", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_blue_tower", 
+    "ShadowScale": 102, 
+    "ShadowSkew": 31, 
+    "ShadowX": -13, 
+    "ShadowY": -20
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_blocktree1", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_blocktree1", 
+    "ShadowScale": 87, 
+    "ShadowSkew": 2, 
+    "ShadowX": -21, 
+    "ShadowY": -37
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_treestump1", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_treestump1", 
+    "ShadowScale": 96, 
+    "ShadowSkew": 16, 
+    "ShadowX": -2, 
+    "ShadowY": 11
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_treestump2", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_treestump2", 
+    "ShadowScale": 96, 
+    "ShadowSkew": 15, 
+    "ShadowX": -4, 
+    "ShadowY": 7
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_treetrunks1", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_treetrunks1", 
+    "ShadowScale": 96, 
+    "ShadowSkew": 15, 
+    "ShadowX": 1, 
+    "ShadowY": 7
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_treetrunks2", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_treetrunks2", 
+    "ShadowScale": 96, 
+    "ShadowSkew": 9, 
+    "ShadowX": -2, 
+    "ShadowY": -1
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_upgradefence1", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_upgradefence1", 
+    "ShadowScale": 99, 
+    "ShadowSkew": 18, 
+    "ShadowX": "", 
+    "ShadowY": 7
+  }, 
+  {
+    "CollisionRadius": "", 
+    "Effect": "", 
+    "ExportName": "builder_upgradefence2", 
+    "FileName": "sc/level_builder_arena.sc", 
+    "Layer": "Object", 
+    "LowendLayer": "Ground", 
+    "Name": "builder_upgradefence2", 
+    "ShadowScale": 89, 
+    "ShadowSkew": 2, 
+    "ShadowX": -4, 
+    "ShadowY": -5
   }
 ]

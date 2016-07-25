@@ -25,9 +25,9 @@
     "PremiumCurrency": true, 
     "ShopIcon": "icon_gems", 
     "TID": "TID_DIAMONDS", 
-    "TextBlue": 92, 
+    "TextBlue": 102, 
     "TextGreen": 255, 
-    "TextRed": ""
+    "TextRed": 102
   }, 
   {
     "Cap": 500000, 
@@ -40,9 +40,9 @@
     "PremiumCurrency": "", 
     "ShopIcon": "icon_gold", 
     "TID": "TID_GOLD", 
-    "TextBlue": 192, 
-    "TextGreen": "", 
-    "TextRed": 192
+    "TextBlue": 72, 
+    "TextGreen": 240, 
+    "TextRed": 255
   }, 
   {
     "Cap": "", 
@@ -100,9 +100,9 @@
     "PremiumCurrency": "", 
     "ShopIcon": "icon_gold", 
     "TID": "TID_GOLD", 
-    "TextBlue": 192, 
-    "TextGreen": "", 
-    "TextRed": 192
+    "TextBlue": 72, 
+    "TextGreen": 240, 
+    "TextRed": 255
   }, 
   {
     "Cap": "", 
@@ -187,6 +187,21 @@
     "IconFile": "", 
     "IconSWF": "", 
     "Name": "LastTournamentId", 
+    "PremiumCurrency": "", 
+    "ShopIcon": "", 
+    "TID": "", 
+    "TextBlue": "", 
+    "TextGreen": "", 
+    "TextRed": ""
+  }, 
+  {
+    "Cap": "", 
+    "CapFullTID": "", 
+    "CollectEffect": "", 
+    "IconExportName": "", 
+    "IconFile": "", 
+    "IconSWF": "", 
+    "Name": "SuperChestIndex", 
     "PremiumCurrency": "", 
     "ShopIcon": "", 
     "TID": "", 

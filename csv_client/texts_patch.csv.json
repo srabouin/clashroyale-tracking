@@ -1,7 +1,8 @@
 [
   {
     "AR": "string", 
-    "BR": "string", 
+    "CN": "string", 
+    "CNT": "string", 
     "DE": "string", 
     "EN": "string", 
     "ES": "string", 
@@ -11,9 +12,8 @@
     "KR": "string", 
     "NL": "string", 
     "NO": "string", 
+    "PT": "string", 
     "RU": "string", 
-    "SCH": "string", 
-    "TCH": "string", 
     "TID": "string", 
     "TR": "string"
   }

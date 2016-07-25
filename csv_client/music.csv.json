@@ -84,7 +84,7 @@
     "DurationSec": "", 
     "FadeOutTimeSec": "", 
     "FileName": "music/sudden_death_01.ogg", 
-    "Loop": "", 
+    "Loop": true, 
     "Name": "Sudden_death", 
     "PlayCount": "", 
     "Volume": 60

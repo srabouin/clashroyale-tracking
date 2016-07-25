@@ -96,8 +96,16 @@
     "TextValue": ""
   }, 
   {
-    "BooleanValue": "", 
+    "BooleanValue": true, 
     "Name": "REPLAY_SHOW_TOUCH_EVENTS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "REPLAY_SHOW_DRAG_EVENTS", 
     "NumberArray": "", 
     "NumberValue": "", 
     "StringArray": "", 
@@ -600,46 +608,6 @@
     "TextValue": ""
   }, 
   {
-    "BooleanValue": "", 
-    "Name": "TOS_URL", 
-    "NumberArray": "", 
-    "NumberValue": "", 
-    "StringArray": "", 
-    "TextValue": "http://www.supercell.com/en/terms-of-service"
-  }, 
-  {
-    "BooleanValue": "", 
-    "Name": "TOS_URL_JP", 
-    "NumberArray": "", 
-    "NumberValue": "", 
-    "StringArray": "", 
-    "TextValue": "http://supercell.co.jp/terms-of-service.html"
-  }, 
-  {
-    "BooleanValue": "", 
-    "Name": "PARENTS_GUIDE_URL", 
-    "NumberArray": "", 
-    "NumberValue": "", 
-    "StringArray": "", 
-    "TextValue": "http://www.supercell.com/en/parents"
-  }, 
-  {
-    "BooleanValue": "", 
-    "Name": "PRIVACY_POLICY_URL", 
-    "NumberArray": "", 
-    "NumberValue": "", 
-    "StringArray": "", 
-    "TextValue": "http://www.supercell.com/en/privacy-policy"
-  }, 
-  {
-    "BooleanValue": "", 
-    "Name": "PRIVACY_POLICY_URL_JP", 
-    "NumberArray": "", 
-    "NumberValue": "", 
-    "StringArray": "", 
-    "TextValue": "http://supercell.co.jp/privacy-policy.html"
-  }, 
-  {
     "BooleanValue": true, 
     "Name": "HELPSHIFT_ENABLED", 
     "NumberArray": "", 
@@ -648,7 +616,7 @@
     "TextValue": ""
   }, 
   {
-    "BooleanValue": true, 
+    "BooleanValue": "", 
     "Name": "DISABLE_HELPSHIFT_CONTACT_US_FROM_NON_PAYING", 
     "NumberArray": "", 
     "NumberValue": "", 
@@ -668,6 +636,14 @@
     "Name": "EXTRA_HELPSHIFT_LANGUAGES", 
     "NumberArray": "", 
     "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "HELPSHIFT_SHOW_CONTACT_UNTIL_EXP_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 2, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -864,6 +840,14 @@
     "TextValue": ""
   }, 
   {
+    "BooleanValue": true, 
+    "Name": "CHALLENGE_POPUP_CENTERED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
     "BooleanValue": "", 
     "Name": "SHADOW_BLUR_DISTANCE", 
     "NumberArray": "", 
@@ -920,7 +904,7 @@
     "TextValue": ""
   }, 
   {
-    "BooleanValue": false, 
+    "BooleanValue": true, 
     "Name": "PEPPER_ENABLED", 
     "NumberArray": "", 
     "NumberValue": "", 
@@ -932,6 +916,70 @@
     "Name": "SHOW_SEASON_END_POPUP_SEC_AFTER_HOME", 
     "NumberArray": "", 
     "NumberValue": 5, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PENDING_SPELL_RECEIVED_DELAY_MS", 
+    "NumberArray": "", 
+    "NumberValue": 1000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "CLOSE_TUTORIAL_POPUPS_BY_TAPPING", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CHAT_COMBINE_MESSAGE_MAX_TIME_DIFF_SEC", 
+    "NumberArray": "", 
+    "NumberValue": 30, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CHAT_COMBINE_MESSAGE_MAX_COUNT", 
+    "NumberArray": "", 
+    "NumberValue": 5, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ADMIN_MESSAGE_BUTTON_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ADMIN_MESSAGES_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CACHE_MAX_EXTRA_SC_FILES", 
+    "NumberArray": "", 
+    "NumberValue": 30, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "USE_STARTED_FROM_NOTIFICATION_ID", 
+    "NumberArray": "", 
+    "NumberValue": "", 
     "StringArray": "", 
     "TextValue": ""
   }
