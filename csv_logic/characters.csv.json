@@ -4853,7 +4853,7 @@
     "HidesWhenNotAttacking": "", 
     "HitSpeed": 1500, 
     "Hitpoints": 700, 
-    "IgnorePushback": "", 
+    "IgnorePushback": true, 
     "IgnoreTargetIfImmuneToBuff": "", 
     "IsSummonerTower": "", 
     "JumpEnabled": "", 
