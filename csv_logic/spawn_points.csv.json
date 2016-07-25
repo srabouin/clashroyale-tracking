@@ -1,0 +1,11 @@
+[
+  {
+    "Characters": "String", 
+    "DontLoop": "boolean", 
+    "ExportName": "string", 
+    "FileName": "string", 
+    "FirstWait": "int", 
+    "Name": "string", 
+    "Wait": "int"
+  }
+]

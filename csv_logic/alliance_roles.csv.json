@@ -1,0 +1,74 @@
+[
+  {
+    "CanAcceptJoinRequest": "Boolean", 
+    "CanBePromotedToLeader": "Boolean", 
+    "CanChangeAllianceSettings": "Boolean", 
+    "CanInvite": "Boolean", 
+    "CanKick": "Boolean", 
+    "CanPromoteToOwnLevel": "Boolean", 
+    "CanSendMail": "Boolean", 
+    "Level": "int", 
+    "Name": "String", 
+    "TID": "String"
+  }, 
+  {
+    "CanAcceptJoinRequest": false, 
+    "CanBePromotedToLeader": "", 
+    "CanChangeAllianceSettings": false, 
+    "CanInvite": false, 
+    "CanKick": "", 
+    "CanPromoteToOwnLevel": "", 
+    "CanSendMail": false, 
+    "Level": 0, 
+    "Name": "NonMember", 
+    "TID": ""
+  }, 
+  {
+    "CanAcceptJoinRequest": false, 
+    "CanBePromotedToLeader": "", 
+    "CanChangeAllianceSettings": false, 
+    "CanInvite": false, 
+    "CanKick": false, 
+    "CanPromoteToOwnLevel": "", 
+    "CanSendMail": false, 
+    "Level": 1, 
+    "Name": "Member", 
+    "TID": "TID_ALLIANCE_ROLE_MEMBER"
+  }, 
+  {
+    "CanAcceptJoinRequest": true, 
+    "CanBePromotedToLeader": true, 
+    "CanChangeAllianceSettings": true, 
+    "CanInvite": true, 
+    "CanKick": true, 
+    "CanPromoteToOwnLevel": "", 
+    "CanSendMail": true, 
+    "Level": 20, 
+    "Name": "Leader", 
+    "TID": "TID_ALLIANCE_ROLE_LEADER"
+  }, 
+  {
+    "CanAcceptJoinRequest": true, 
+    "CanBePromotedToLeader": "", 
+    "CanChangeAllianceSettings": false, 
+    "CanInvite": true, 
+    "CanKick": true, 
+    "CanPromoteToOwnLevel": "", 
+    "CanSendMail": false, 
+    "Level": 5, 
+    "Name": "Elder", 
+    "TID": "TID_ALLIANCE_ROLE_ELDER"
+  }, 
+  {
+    "CanAcceptJoinRequest": true, 
+    "CanBePromotedToLeader": true, 
+    "CanChangeAllianceSettings": true, 
+    "CanInvite": true, 
+    "CanKick": true, 
+    "CanPromoteToOwnLevel": true, 
+    "CanSendMail": true, 
+    "Level": 10, 
+    "Name": "Co-leader", 
+    "TID": "TID_ALLIANCE_ROLE_CO_LEADER"
+  }
+]

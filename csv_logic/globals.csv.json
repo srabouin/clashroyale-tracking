@@ -1,0 +1,1298 @@
+[
+  {
+    "BooleanValue": "boolean", 
+    "Name": "String", 
+    "NumberArray": "int", 
+    "NumberValue": "int", 
+    "StringArray": "String", 
+    "TextValue": "string"
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "ALLIANCE_CREATE_COST", 
+    "NumberArray": "", 
+    "NumberValue": 1000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "STARTING_DIAMONDS", 
+    "NumberArray": "", 
+    "NumberValue": 100, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "CLAN_TOURNAMENT_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ACHIEVEMENTS_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MAX_MANA", 
+    "NumberArray": "", 
+    "NumberValue": 10, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MANA_REGEN_MS", 
+    "NumberArray": "", 
+    "NumberValue": 28000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MANA_REGEN_MS_END", 
+    "NumberArray": "", 
+    "NumberValue": 14000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MANA_REGEN_MS_OVERTIME", 
+    "NumberArray": "", 
+    "NumberValue": 14000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MANA_SPEED_UP_WHEN_REMAINING_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 60, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MANA_REGEN_PENALTY_FROM_TOWER", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "START_MANA", 
+    "NumberArray": "", 
+    "NumberValue": 5, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "K_FACTOR", 
+    "NumberArray": "", 
+    "NumberValue": 60, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MINIMUM_CHANGE_FOR_REAL_BATTLE", 
+    "NumberArray": "", 
+    "NumberValue": 1, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TARGET_SCORE", 
+    "NumberArray": "", 
+    "NumberValue": 1000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MINIMUM_SCORE", 
+    "NumberArray": "", 
+    "NumberValue": 0, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "DAMAGE_NOTICE_TIME", 
+    "NumberArray": "", 
+    "NumberValue": 2000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PROTECTION_CAP_PERCENTAGE", 
+    "NumberArray": "", 
+    "NumberValue": 90, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PANIC_RUN_MIN_TIME", 
+    "NumberArray": "", 
+    "NumberValue": 1000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PANIC_RUN_MAX_TIME", 
+    "NumberArray": "", 
+    "NumberValue": 1500, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PANIC_SPEED_MULTIPLIER", 
+    "NumberArray": "", 
+    "NumberValue": 175, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MAX_MESSAGE_LENGTH", 
+    "NumberArray": "", 
+    "NumberValue": 128, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MAX_ALLIANCE_MAIL_LENGTH", 
+    "NumberArray": "", 
+    "NumberValue": 256, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "NEXT_SPELL_COOLDOWN_MILLISECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 2000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "NEXT_SPELL_COOLDOWN_MILLISECONDS_BOOST", 
+    "NumberArray": "", 
+    "NumberValue": 1000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "NEXT_SPELL_COOLDOWN_MILLISECONDS_OVERTIME", 
+    "NumberArray": "", 
+    "NumberValue": 1000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SPEED_UP_DIAMOND_COST_1_MIN", 
+    "NumberArray": "", 
+    "NumberValue": 1, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SPEED_UP_DIAMOND_COST_1_HOUR", 
+    "NumberArray": "", 
+    "NumberValue": 20, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SPEED_UP_DIAMOND_COST_24_HOURS", 
+    "NumberArray": "", 
+    "NumberValue": 360, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SPEED_UP_DIAMOND_COST_1_WEEK", 
+    "NumberArray": "", 
+    "NumberValue": 1800, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "BATTLE_END_EXP_REWARD", 
+    "NumberArray": "", 
+    "NumberValue": 0, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAMBLE_PRICE_COOLDOWN_MINUTES", 
+    "NumberArray": "", 
+    "NumberValue": 1380, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TUTORIAL_MAX_SPELL_CAST_DISTANCE_TILES", 
+    "NumberArray": "", 
+    "NumberValue": 6, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SPEED_UP_FREE_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 0, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "RESOURCE_DIAMOND_COST_1", 
+    "NumberArray": "", 
+    "NumberValue": 1, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "RESOURCE_DIAMOND_COST_10", 
+    "NumberArray": "", 
+    "NumberValue": 1, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "RESOURCE_DIAMOND_COST_100", 
+    "NumberArray": "", 
+    "NumberValue": 8, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "RESOURCE_DIAMOND_COST_1000", 
+    "NumberArray": "", 
+    "NumberValue": 60, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "RESOURCE_DIAMOND_COST_10000", 
+    "NumberArray": "", 
+    "NumberValue": 500, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "RESOURCE_DIAMOND_COST_100000", 
+    "NumberArray": "", 
+    "NumberValue": 4500, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "RESOURCE_DIAMOND_COST_1000000", 
+    "NumberArray": "", 
+    "NumberValue": 45000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MAX_RESOURCE_PURCHASE_SIZE", 
+    "NumberArray": "", 
+    "NumberValue": 1000000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "ALLIANCE_SCORE_CONTRIBUTION_PERCENTAGE", 
+    "NumberArray": 50, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 25, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 12, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 10, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 3, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "STARTING_GOLD", 
+    "NumberArray": "", 
+    "NumberValue": 100, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "ATTACK_FINISH_TIME_MS", 
+    "NumberArray": "", 
+    "NumberValue": 250, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "BATTLE_PING_SAMPLE_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 15, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "FREE_CHEST_INTERVAL_HOURS", 
+    "NumberArray": "", 
+    "NumberValue": 4, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "EXTRA_BUFF_RADIUS", 
+    "NumberArray": "", 
+    "NumberValue": 2000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PVP_UNLOCKED_AT_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 1, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "DAMAGE_INCREASE_PERCENT_PER_SPELL_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 10, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "HITPOINT_INCREASE_PERCENT_PER_SPELL_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 10, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "DAMAGE_INCREASE_PERCENT_PER_KING_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 7, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "HITPOINT_INCREASE_PERCENT_PER_KING_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 7, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "DAMAGE_INCREASE_PERCENT_PER_TOWER_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 8, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "HITPOINT_INCREASE_PERCENT_PER_TOWER_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 8, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "END_TIMER_ANIM_MS", 
+    "NumberArray": "", 
+    "NumberValue": 12000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MAX_CHEST_COUNT", 
+    "NumberArray": "", 
+    "NumberValue": 4, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MAX_WORKERS", 
+    "NumberArray": "", 
+    "NumberValue": 1, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "EXTRA_CHEST_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "CHEST_AUTO_OPENING", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "RECORD_TOUCH_EVENTS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CROWN_CHEST_COOLDOWN_HOURS", 
+    "NumberArray": "", 
+    "NumberValue": 24, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CROWN_CHEST_CROWN_COUNT", 
+    "NumberArray": "", 
+    "NumberValue": 10, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MELEE_RANGE_LIMIT", 
+    "NumberArray": "", 
+    "NumberValue": 2000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "REQUEST_SPELLS_COOLDOWN_MINUTES", 
+    "NumberArray": "", 
+    "NumberValue": 480, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "STARTING_ARENA", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": "TrainingCamp"
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "REDUCED_TOWER_DAMAGE_PERCENT", 
+    "NumberArray": "", 
+    "NumberValue": 50, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "LEAVE_ALLIANCE_DONATION_COOLDOWN_MINUTES", 
+    "NumberArray": "", 
+    "NumberValue": 150, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "ALLIANCE_UNLOCK_EXP_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 3, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TUTORIAL_ARENA_MATCH_COUNT", 
+    "NumberArray": "", 
+    "NumberValue": 7, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TUTORIAL_UPGRADE_COUNT", 
+    "NumberArray": "", 
+    "NumberValue": 1, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PRICE_EPIC", 
+    "NumberArray": "", 
+    "NumberValue": 2000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PRICE_RARE", 
+    "NumberArray": "", 
+    "NumberValue": 40, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PRICE_COMMON", 
+    "NumberArray": "", 
+    "NumberValue": 3, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PRICE_EPIC_INCREASE_PER_ONE_BOUGHT_PERCENT", 
+    "NumberArray": "", 
+    "NumberValue": 180, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PRICE_RARE_INCREASE_PER_ONE_BOUGHT_PERCENT", 
+    "NumberArray": "", 
+    "NumberValue": 140, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PRICE_COMMON_INCREASE_PER_ONE_BOUGHT_PERCENT", 
+    "NumberArray": "", 
+    "NumberValue": 120, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "BUY_LIMIT_EPIC", 
+    "NumberArray": "", 
+    "NumberValue": 10, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "BUY_LIMIT_RARE", 
+    "NumberArray": "", 
+    "NumberValue": 20, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "BUY_LIMIT_COMMON", 
+    "NumberArray": "", 
+    "NumberValue": 50, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "BIG_LIMIT", 
+    "NumberArray": "", 
+    "NumberValue": 1000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SUPER_LIMIT", 
+    "NumberArray": "", 
+    "NumberValue": 50000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SHARE_REPLAY_COOLDOWN_SECS", 
+    "NumberArray": "", 
+    "NumberValue": 40, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TEAM_MAIL_COOLDOWN_SECS", 
+    "NumberArray": "", 
+    "NumberValue": 43200, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "CHALLENGE_MATCHES_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "KING_ACTIVATE_TIME_MS", 
+    "NumberArray": "", 
+    "NumberValue": 3300, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TV_WEIGHT_TOP3_VS_TOP3", 
+    "NumberArray": "", 
+    "NumberValue": 100, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TV_WEIGHT_TOP3_VS_TOP10", 
+    "NumberArray": "", 
+    "NumberValue": 70, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TV_WEIGHT_TOP10_VS_TOP10", 
+    "NumberArray": "", 
+    "NumberValue": 60, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TV_WEIGHT_TOP10_VS_TOP20", 
+    "NumberArray": "", 
+    "NumberValue": 55, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TV_WEIGHT_TOP20_VS_TOP20", 
+    "NumberArray": "", 
+    "NumberValue": 50, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TV_WEIGHT_TOP20_VS_TOP50", 
+    "NumberArray": "", 
+    "NumberValue": 45, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TV_WEIGHT_TOP50_VS_TOP50", 
+    "NumberArray": "", 
+    "NumberValue": 40, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TV_WEIGHT_OTHERS", 
+    "NumberArray": "", 
+    "NumberValue": 40, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TV_WEIGTH_NOT_UNDERDOG", 
+    "NumberArray": "", 
+    "NumberValue": 70, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TV_WEIGHT_WINNER_ONE_CROWN_BEHIND", 
+    "NumberArray": "", 
+    "NumberValue": 90, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TV_WEIGHT_DECREASE_WINNER_IN_HIGHER_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 20, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "DONATION_CAPACITY_LIMIT_COOLDOWN_HOURS", 
+    "NumberArray": "", 
+    "NumberValue": 24, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "DEVICE_LINK_CODE_LENGTH", 
+    "NumberArray": "", 
+    "NumberValue": 12, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "DEVICE_LINK_CODE_VALID_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 120, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "RESET_SPELL_USAGE_COUNTER_MATCHES", 
+    "NumberArray": "", 
+    "NumberValue": 10, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "FREE_CHEST_DIAMONDS", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 0, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CROWN_CHEST_DIAMONDS", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 3, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 3, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 4, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 4, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 3, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 3, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 3, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 3, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 2, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 3, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": 3, 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "DISABLE_COMBAT_COMPONENT_ON_DEATH", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TOURNAMENT_MAX_EXP_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 8, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TOURNAMENT_MAX_COMMON_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 8, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TOURNAMENT_MAX_RARE_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 6, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TOURNAMENT_MAX_EPIC_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 3, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TOURNAMENT_MAX_LEGENDARY_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 1, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TOURNAMENT_MATCH_LENGTH_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 180, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TOURNAMENT_OVERTIME_LENGTH_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 180, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "DEVICE_LINK_MAX_LEVEL_FOR_ACCOUNT_OVERRIDE", 
+    "NumberArray": "", 
+    "NumberValue": 5, 
+    "StringArray": "", 
+    "TextValue": ""
+  }
+]

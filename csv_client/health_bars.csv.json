@@ -1,0 +1,74 @@
+[
+  {
+    "EnemyExportName": "String", 
+    "FileName": "String", 
+    "MinimumHitpointValue": "int", 
+    "Name": "String", 
+    "NoDamageEnemyExportName": "String", 
+    "NoDamagePlayerExportName": "String", 
+    "PlayerExportName": "String", 
+    "ShowEnemyAlways": "boolean", 
+    "ShowOwnAlways": "boolean", 
+    "YOffset": "int"
+  }, 
+  {
+    "EnemyExportName": "hp_enemy_small", 
+    "FileName": "sc/ui.sc", 
+    "MinimumHitpointValue": 0, 
+    "Name": "Small", 
+    "NoDamageEnemyExportName": "hp_enemy_number", 
+    "NoDamagePlayerExportName": "hp_player_number", 
+    "PlayerExportName": "hp_player_small", 
+    "ShowEnemyAlways": true, 
+    "ShowOwnAlways": "", 
+    "YOffset": ""
+  }, 
+  {
+    "EnemyExportName": "hp_enemy_medium", 
+    "FileName": "sc/ui.sc", 
+    "MinimumHitpointValue": 75, 
+    "Name": "Medium", 
+    "NoDamageEnemyExportName": "hp_enemy_number", 
+    "NoDamagePlayerExportName": "hp_player_number", 
+    "PlayerExportName": "hp_player_medium", 
+    "ShowEnemyAlways": true, 
+    "ShowOwnAlways": "", 
+    "YOffset": ""
+  }, 
+  {
+    "EnemyExportName": "hp_enemy_high", 
+    "FileName": "sc/ui.sc", 
+    "MinimumHitpointValue": 150, 
+    "Name": "High", 
+    "NoDamageEnemyExportName": "hp_enemy_number", 
+    "NoDamagePlayerExportName": "hp_player_number", 
+    "PlayerExportName": "hp_player_high", 
+    "ShowEnemyAlways": true, 
+    "ShowOwnAlways": "", 
+    "YOffset": ""
+  }, 
+  {
+    "EnemyExportName": "hp_enemy_tower_withNumber", 
+    "FileName": "sc/ui.sc", 
+    "MinimumHitpointValue": "", 
+    "Name": "Tower", 
+    "NoDamageEnemyExportName": "hp_enemy_tower_withNumber", 
+    "NoDamagePlayerExportName": "hp_player_tower_withNumber", 
+    "PlayerExportName": "hp_player_tower_withNumber", 
+    "ShowEnemyAlways": true, 
+    "ShowOwnAlways": "", 
+    "YOffset": ""
+  }, 
+  {
+    "EnemyExportName": "hp_enemy_wizard", 
+    "FileName": "sc/ui.sc", 
+    "MinimumHitpointValue": "", 
+    "Name": "Summoner", 
+    "NoDamageEnemyExportName": "hp_enemy_wizard", 
+    "NoDamagePlayerExportName": "hp_player_wizard", 
+    "PlayerExportName": "hp_player_wizard", 
+    "ShowEnemyAlways": true, 
+    "ShowOwnAlways": true, 
+    "YOffset": 20
+  }
+]

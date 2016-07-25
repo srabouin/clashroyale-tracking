@@ -1,0 +1,46 @@
+[
+  {
+    "BankDamage": "int", 
+    "Buff": "String", 
+    "BuffTime": "int", 
+    "DamageEffect": "String", 
+    "Efficiency": "int", 
+    "MaxBuffChance": "int", 
+    "MinBuffChance": "int", 
+    "Name": "String", 
+    "NumberOfJumps": "int"
+  }, 
+  {
+    "BankDamage": "", 
+    "Buff": "", 
+    "BuffTime": "", 
+    "DamageEffect": "Damage", 
+    "Efficiency": 100, 
+    "MaxBuffChance": "", 
+    "MinBuffChance": "", 
+    "Name": "Physical", 
+    "NumberOfJumps": ""
+  }, 
+  {
+    "BankDamage": "", 
+    "Buff": "", 
+    "BuffTime": "", 
+    "DamageEffect": "Damage", 
+    "Efficiency": 100, 
+    "MaxBuffChance": "", 
+    "MinBuffChance": "", 
+    "Name": "Fire", 
+    "NumberOfJumps": ""
+  }, 
+  {
+    "BankDamage": 25, 
+    "Buff": "Poisoned", 
+    "BuffTime": "", 
+    "DamageEffect": "Damage", 
+    "Efficiency": 100, 
+    "MaxBuffChance": "", 
+    "MinBuffChance": "", 
+    "Name": "Poison", 
+    "NumberOfJumps": ""
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "BtnExportName": "string", 
+    "ExportName": "string", 
+    "FileName": "string", 
+    "IconExportName": "string", 
+    "Name": "String", 
+    "Sound": "string", 
+    "TID": "String", 
+    "TauntMenu": "Boolean"
+  }, 
+  {
+    "BtnExportName": "taunt_btn_01", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "Taunt1", 
+    "Sound": "", 
+    "TID": "TID_EMOTE1", 
+    "TauntMenu": true
+  }, 
+  {
+    "BtnExportName": "taunt_btn_02", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "Taunt2", 
+    "Sound": "", 
+    "TID": "TID_EMOTE2", 
+    "TauntMenu": true
+  }, 
+  {
+    "BtnExportName": "taunt_btn_03", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "Taunt3", 
+    "Sound": "", 
+    "TID": "TID_EMOTE3", 
+    "TauntMenu": true
+  }, 
+  {
+    "BtnExportName": "taunt_btn_04", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "Taunt4", 
+    "Sound": "", 
+    "TID": "TID_EMOTE4", 
+    "TauntMenu": true
+  }, 
+  {
+    "BtnExportName": "taunt_btn_05", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "Taunt5", 
+    "Sound": "", 
+    "TID": "TID_EMOTE5", 
+    "TauntMenu": true
+  }, 
+  {
+    "BtnExportName": "taunt_btn_06", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "Taunt6", 
+    "Sound": "", 
+    "TID": "TID_EMOTE6", 
+    "TauntMenu": true
+  }, 
+  {
+    "BtnExportName": "", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "NPC1_Start", 
+    "Sound": "", 
+    "TID": "NPC1_TAUNT_START", 
+    "TauntMenu": ""
+  }, 
+  {
+    "BtnExportName": "", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "NPC1_Tower", 
+    "Sound": "", 
+    "TID": "NPC1_TAUNT_TOWER", 
+    "TauntMenu": ""
+  }, 
+  {
+    "BtnExportName": "", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "NPC1_Deploy", 
+    "Sound": "", 
+    "TID": "NPC1_TAUNT_DEPLOY", 
+    "TauntMenu": ""
+  }, 
+  {
+    "BtnExportName": "", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "NPC1_Attack", 
+    "Sound": "", 
+    "TID": "NPC1_TAUNT_ATTACK", 
+    "TauntMenu": ""
+  }, 
+  {
+    "BtnExportName": "", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "NPC2_Start", 
+    "Sound": "", 
+    "TID": "NPC2_TAUNT_START", 
+    "TauntMenu": ""
+  }, 
+  {
+    "BtnExportName": "", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "NPC2_Tower", 
+    "Sound": "", 
+    "TID": "NPC2_TAUNT_TOWER", 
+    "TauntMenu": ""
+  }, 
+  {
+    "BtnExportName": "", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "NPC3_Start", 
+    "Sound": "", 
+    "TID": "NPC3_TAUNT_START", 
+    "TauntMenu": ""
+  }, 
+  {
+    "BtnExportName": "", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "NPC3_Tower", 
+    "Sound": "", 
+    "TID": "NPC3_TAUNT_TOWER", 
+    "TauntMenu": ""
+  }, 
+  {
+    "BtnExportName": "", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "NPC4_Start", 
+    "Sound": "", 
+    "TID": "NPC4_TAUNT_START", 
+    "TauntMenu": ""
+  }, 
+  {
+    "BtnExportName": "", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "NPC4_Tower", 
+    "Sound": "", 
+    "TID": "NPC4_TAUNT_TOWER", 
+    "TauntMenu": ""
+  }, 
+  {
+    "BtnExportName": "", 
+    "ExportName": "", 
+    "FileName": "", 
+    "IconExportName": "", 
+    "Name": "NPC16_Start", 
+    "Sound": "", 
+    "TID": "NPC16_TAUNT_START", 
+    "TauntMenu": ""
+  }, 
+  {
+    "BtnExportName": "emoji_btn_01", 
+    "ExportName": "sticker_thumbs_anim", 
+    "FileName": "sc/ui.sc", 
+    "IconExportName": "sticker_thumbs_icon", 
+    "Name": "TauntGfx1", 
+    "Sound": "sound_king_congratulate", 
+    "TID": "", 
+    "TauntMenu": true
+  }, 
+  {
+    "BtnExportName": "emoji_btn_02", 
+    "ExportName": "sticker_angry_anim", 
+    "FileName": "sc/ui.sc", 
+    "IconExportName": "sticker_angry_icon", 
+    "Name": "TauntGfx2", 
+    "Sound": "sound_king_mad", 
+    "TID": "", 
+    "TauntMenu": true
+  }, 
+  {
+    "BtnExportName": "emoji_btn_03", 
+    "ExportName": "sticker_cry_anim", 
+    "FileName": "sc/ui.sc", 
+    "IconExportName": "sticker_cry_icon", 
+    "Name": "TauntGfx3", 
+    "Sound": "sound_king_crying", 
+    "TID": "", 
+    "TauntMenu": true
+  }, 
+  {
+    "BtnExportName": "emoji_btn_04", 
+    "ExportName": "sticker_lol_anim", 
+    "FileName": "sc/ui.sc", 
+    "IconExportName": "sticker_lol_icon", 
+    "Name": "TauntGfx4", 
+    "Sound": "sound_king_happy", 
+    "TID": "", 
+    "TauntMenu": true
+  }
+]

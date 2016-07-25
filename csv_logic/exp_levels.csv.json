@@ -1,0 +1,145 @@
+[
+  {
+    "Decks": "int", 
+    "DiamondReward": "int", 
+    "ExpToNextLevel": "int", 
+    "Name": "String", 
+    "SummonerKillGold": "int", 
+    "SummonerLevel": "int", 
+    "TowerKillGold": "int", 
+    "TowerLevel": "int", 
+    "TroopLevel": "int"
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 20, 
+    "Name": 1, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 1, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 1, 
+    "TroopLevel": 1
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 50, 
+    "Name": 2, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 2, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 2, 
+    "TroopLevel": 2
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 100, 
+    "Name": 3, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 3, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 3, 
+    "TroopLevel": 3
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 200, 
+    "Name": 4, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 4, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 4, 
+    "TroopLevel": 4
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 400, 
+    "Name": 5, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 5, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 5, 
+    "TroopLevel": 5
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 1000, 
+    "Name": 6, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 6, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 6, 
+    "TroopLevel": 6
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 2000, 
+    "Name": 7, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 7, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 7, 
+    "TroopLevel": 7
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 5000, 
+    "Name": 8, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 8, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 8, 
+    "TroopLevel": 8
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 10000, 
+    "Name": 9, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 9, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 9, 
+    "TroopLevel": 9
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 30000, 
+    "Name": 10, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 10, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 10, 
+    "TroopLevel": 10
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 80000, 
+    "Name": 11, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 11, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 11, 
+    "TroopLevel": 11
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 100000, 
+    "Name": 12, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 12, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 12, 
+    "TroopLevel": 12
+  }
+]

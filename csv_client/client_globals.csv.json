@@ -1,0 +1,938 @@
+[
+  {
+    "BooleanValue": "boolean", 
+    "Name": "String", 
+    "NumberArray": "int", 
+    "NumberValue": "int", 
+    "StringArray": "String", 
+    "TextValue": "string"
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "UDP_HEARTBEAT_MS", 
+    "NumberArray": "", 
+    "NumberValue": 200, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "UDP_DISCONNECTED_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 2, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "UDP_DESTRUCT_ON_INVALID_CONNECTION", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MAIN_MENU_PARALLAX", 
+    "NumberArray": "", 
+    "NumberValue": 0, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SHOW_MANA_FULL_AFTER_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 5, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "BACKGROUND_Y_SIZE", 
+    "NumberArray": "", 
+    "NumberValue": 1120, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "BACKGROUND_Y_OFFSET", 
+    "NumberArray": "", 
+    "NumberValue": 90, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "REPLAY_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "REPLAY_BACKGROUND_Y_SIZE", 
+    "NumberArray": "", 
+    "NumberValue": 1200, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "REPLAY_BACKGROUND_Y_OFFSET", 
+    "NumberArray": "", 
+    "NumberValue": 250, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "REPLAY_BATTLE_END_HUD_DELAY_MILLIS", 
+    "NumberArray": "", 
+    "NumberValue": 2700, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "REPLAY_SHOW_TOUCH_EVENTS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "REPLAY_SKIP_TIME_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "REPLAY_SKIP_TIME_INTERVAL_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 10, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "NPC_REPLAY_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SPELL_DRAG_NAME_Y_POS", 
+    "NumberArray": "", 
+    "NumberValue": -30, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SHOW_NOT_ENOUGH_MANA_AFTER_FAILURES", 
+    "NumberArray": "", 
+    "NumberValue": 1, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "LOCAL_NOTIFICATION_FREE_WORKERS_MINUTES", 
+    "NumberArray": "", 
+    "NumberValue": 120, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SPELL_DRAG_OBJECT_ALPHA", 
+    "NumberArray": "", 
+    "NumberValue": 50, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MIN_SPELL_COUNT_FOR_SORT_BUTTON", 
+    "NumberArray": "", 
+    "NumberValue": 10, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "UNIT_SPEED_1", 
+    "NumberArray": "", 
+    "NumberValue": 30, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "UNIT_SPEED_2", 
+    "NumberArray": "", 
+    "NumberValue": 45, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "UNIT_SPEED_3", 
+    "NumberArray": "", 
+    "NumberValue": 60, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "UNIT_SPEED_4", 
+    "NumberArray": "", 
+    "NumberValue": 90, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAME_FACEBOOK_URL", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PAYING_USER_EMAIL_ID", 
+    "NumberArray": "", 
+    "NumberValue": 249, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "GAME_CENTER_ACHIEVEMENTS_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "GAMECENTER_REAUTHORIZE", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "GAME_CENTER_CHALLENGES_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "FAQ_URL", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": 0
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "FORUMS_URL", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": 0
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "LOW_GFX_DEVICES", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "ipod1", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "ipod2", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "ipod3", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "ipod4", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "ipad1", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "iphone1", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "iphone2", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "iphone3", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MED_GFX_DEVICES", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "LOW_MEM_DEVICES", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "ipod1", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "ipod2", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "ipod3", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "ipod4", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "ipad1", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "iphone2", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MED_MEM_DEVICES", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "ipad2", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "COME_BACK_NOTIFICATION_DELAY_HOURS_SMALL", 
+    "NumberArray": "", 
+    "NumberValue": 48, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "COME_BACK_NOTIFICATION_DELAY_HOURS_MEDIUM", 
+    "NumberArray": "", 
+    "NumberValue": 120, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "COME_BACK_NOTIFICATION_DELAY_HOURS_LARGE", 
+    "NumberArray": "", 
+    "NumberValue": 336, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "APP_RATE_XP_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 11, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "FEEDBACK_EMAIL", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": 0
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SECTOR_COMMAND_MESSAGE_INTERVAL_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 2, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "POPUP_BLUR_PERCENT", 
+    "NumberArray": "", 
+    "NumberValue": 120, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "POPUP_BLUR_ITERATIONS", 
+    "NumberArray": "", 
+    "NumberValue": 4, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MATCH_END_BLUR_PERCENT", 
+    "NumberArray": "", 
+    "NumberValue": 120, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MATCH_END_BLUR_ITERATIONS", 
+    "NumberArray": "", 
+    "NumberValue": 4, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MAX_SPELL_PENDING_TIME", 
+    "NumberArray": "", 
+    "NumberValue": 1200, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "TAUNTS_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SHOW_TAUNT_TIME_SEC", 
+    "NumberArray": "", 
+    "NumberValue": 4, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SHOW_MATCHMAKING_TIME_TOLERANCE", 
+    "NumberArray": "", 
+    "NumberValue": 3, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ENABLE_FACEBOOK", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "ENABLE_FACEBOOK_KUNLUN", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ENABLE_GAMECENTER_FRIENDS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SWITCH_CONFIRMATION_XP_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 4, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PROMPT_GC_SWITCH_MIN_NPC_WINS", 
+    "NumberArray": "", 
+    "NumberValue": 0, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "NO_DEPLOY_ZONE_COLOR", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": 90900000
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "PAYMENT_LIMIT_CONFIRMATION_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PAYMENT_LIMIT_CONFIRMATION_USD", 
+    "NumberArray": "", 
+    "NumberValue": 15000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PAYMENT_LIMIT_CONFIRMATION_TIME", 
+    "NumberArray": "", 
+    "NumberValue": 15, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CONFIRM_WORD_MAX_LENGTH", 
+    "NumberArray": "", 
+    "NumberValue": 15, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "DISCONNECT_IN_APPS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "IN_APP_RETRY_LIMIT", 
+    "NumberArray": "", 
+    "NumberValue": 4, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "RETRY_PURCHASES_IN_SHOP", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TOS_URL", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": "http://www.supercell.com/en/terms-of-service"
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TOS_URL_JP", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": "http://supercell.co.jp/terms-of-service.html"
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PARENTS_GUIDE_URL", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": "http://www.supercell.com/en/parents"
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PRIVACY_POLICY_URL", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": "http://www.supercell.com/en/privacy-policy"
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PRIVACY_POLICY_URL_JP", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": "http://supercell.co.jp/privacy-policy.html"
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "HELPSHIFT_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "DISABLE_HELPSHIFT_CONTACT_US_FROM_NON_PAYING", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "USE_HELPSHIFT_SDK_LANGUAGE", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "EXTRA_HELPSHIFT_LANGUAGES", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "SEND_GC_ACHIVEMENT_0_PROGRESS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "SEND_GC_ACHIVEMENT_PROGRESS_ONCE", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "USE_GC_SEND_ALL_ACHIEVEMENTS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "SHOW_NOTIFICATION_FOR_DONATE", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "KEEP_ALIVE_WARNING_MS", 
+    "NumberArray": "", 
+    "NumberValue": 10000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PING_WARNING_MS", 
+    "NumberArray": "", 
+    "NumberValue": 3500, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MATCHMAKING_TIP_INTERVAL_SEC", 
+    "NumberArray": "", 
+    "NumberValue": 15, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ATTRIBUTION_MAT", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ATTRIBUTION_FB", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ATTRIBUTION_IAD", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "APP_RATE_DIALOG_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "PURCHASE_DIALOG_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "PLAYER_ID_SHOW_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "VIBRATE_AFTER_MATCHMAKING_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 15, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TAUNT_LIMIT", 
+    "NumberArray": "", 
+    "NumberValue": 15, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "NAME_CHANGE_START_LEVEL", 
+    "NumberArray": "", 
+    "NumberValue": 4, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ENABLE_NAME_CHANGE", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TAUNT_SOUND_COOLDOWN", 
+    "NumberArray": "", 
+    "NumberValue": 3000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "GOOGLE_ACHIEVEMENTS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "GOOGLE_ACHIEVEMENTS_KUNLUN", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "HIGH_MEMORY_ANDROID", 
+    "NumberArray": "", 
+    "NumberValue": 820, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MEDIUM_MEMORY_ANDROID", 
+    "NumberArray": "", 
+    "NumberValue": 600, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "ACCOUNT_CONFIRM_POPUP_CENTERED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "ENTER_NAME_POPUP_CENTERED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SHADOW_BLUR_DISTANCE", 
+    "NumberArray": "", 
+    "NumberValue": 170, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "CONNECT_IOS_TO_KUNLUN", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "KUNLUN_SPLASH_MESSAGE", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": "\u5065\u5eb7\u6e38\u620f\u516c\u544a\uff1a\u62b5\u5236\u4e0d\u826f\u6e38\u620f \u62d2\u7edd\u76d7\u7248\u6e38\u620f \u6ce8\u610f\u81ea\u6211\u4fdd\u62a4 \u8c28\u9632\u53d7\u9a97\u4e0a\u5f53 \u9002\u5ea6\u6e38\u620f\u76ca\u8111 \u6c89\u8ff7\u6e38\u620f\u4f24\u8eab \u5408\u7406\u5b89\u6392\u65f6\u95f4 \u4eab\u53d7\u5065\u5eb7\u751f\u6d3b"
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TOURNAMENT_TOGGLE_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "TOURNAMENT_MODE_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "USE_ARABIC_FALLBACK_FONT", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "DISABLE_FB_IN_CHINA", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": false, 
+    "Name": "PEPPER_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SHOW_SEASON_END_POPUP_SEC_AFTER_HOME", 
+    "NumberArray": "", 
+    "NumberValue": 5, 
+    "StringArray": "", 
+    "TextValue": ""
+  }
+]

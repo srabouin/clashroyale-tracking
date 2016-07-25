@@ -1,0 +1,47 @@
+[
+  {
+    "ButtonTID": "String", 
+    "ButtonUrl": "String", 
+    "Enabled": "Boolean", 
+    "ID": "int", 
+    "IconExportName": "String", 
+    "IconSWF": "String", 
+    "ImageExportName": "String", 
+    "ImageSWF": "String", 
+    "InfoTID": "String", 
+    "ItemExportName": "String", 
+    "ItemSWF": "String", 
+    "Name": "String", 
+    "TID": "String"
+  }, 
+  {
+    "ButtonTID": "", 
+    "ButtonUrl": "", 
+    "Enabled": true, 
+    "ID": 122, 
+    "IconExportName": "", 
+    "IconSWF": "", 
+    "ImageExportName": "", 
+    "ImageSWF": "", 
+    "InfoTID": "TID_NEWS_UPDATE_TEXT2", 
+    "ItemExportName": "news_item", 
+    "ItemSWF": "sc/ui.sc", 
+    "Name": "Update", 
+    "TID": "TID_NEWS_UPDATE_TITLE2"
+  }, 
+  {
+    "ButtonTID": "TID_NEWS_ITEM_BUTTON", 
+    "ButtonUrl": "http://supr.cl/RoyaleBalance", 
+    "Enabled": true, 
+    "ID": 122, 
+    "IconExportName": "", 
+    "IconSWF": "", 
+    "ImageExportName": "", 
+    "ImageSWF": "", 
+    "InfoTID": "TID_NEWS_UPDATE_TEXT", 
+    "ItemExportName": "news_item", 
+    "ItemSWF": "sc/ui.sc", 
+    "Name": "Update2", 
+    "TID": "TID_NEWS_UPDATE_TITLE"
+  }
+]

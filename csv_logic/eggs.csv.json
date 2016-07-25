@@ -1,0 +1,23 @@
+[
+  {
+    "BlueExportName": "String", 
+    "BlueTopExportName": "String", 
+    "CharacterStartingBuff": "String", 
+    "CharacterStartingBuffTime": "int", 
+    "CollisionRadius": "int", 
+    "DeathEffect": "String", 
+    "Effect": "String", 
+    "FileName": "String", 
+    "HatchDuration": "int", 
+    "Hitpoints": "int", 
+    "Homespawn": "boolean", 
+    "IgnoreAggro": "boolean", 
+    "Name": "String", 
+    "RedExportName": "String", 
+    "RedTopExportName": "String", 
+    "ShadowScale": "int", 
+    "ShadowSkew": "int", 
+    "ShadowX": "int", 
+    "ShadowY": "int"
+  }
+]

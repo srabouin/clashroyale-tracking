@@ -1,0 +1,30 @@
+[
+  {
+    "Amount": "int", 
+    "IconFile": "string", 
+    "Name": "String", 
+    "Resource": "String", 
+    "TID": "String"
+  }, 
+  {
+    "Amount": 1000, 
+    "IconFile": "shop_gold01", 
+    "Name": "Gold1", 
+    "Resource": "Gold", 
+    "TID": "TID_RESOURCE_PACK_GOLD_SMALL"
+  }, 
+  {
+    "Amount": 10000, 
+    "IconFile": "shop_gold02", 
+    "Name": "Gold2", 
+    "Resource": "Gold", 
+    "TID": "TID_RESOURCE_PACK_GOLD_MEDIUM"
+  }, 
+  {
+    "Amount": 100000, 
+    "IconFile": "shop_gold03", 
+    "Name": "Gold3", 
+    "Resource": "Gold", 
+    "TID": "TID_RESOURCE_PACK_GOLD_BIG"
+  }
+]

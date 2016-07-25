@@ -1,0 +1,155 @@
+[
+  {
+    "DurationSec": "int", 
+    "FadeOutTimeSec": "int", 
+    "FileName": "String", 
+    "Loop": "boolean", 
+    "Name": "String", 
+    "PlayCount": "int", 
+    "Volume": "int"
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/2min_loop_battle_01.ogg", 
+    "Loop": true, 
+    "Name": "BattleMusic", 
+    "PlayCount": "", 
+    "Volume": 50
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/2min_loop_battle_02.ogg", 
+    "Loop": true, 
+    "Name": "", 
+    "PlayCount": "", 
+    "Volume": 50
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/2min_loop_battle_03.ogg", 
+    "Loop": true, 
+    "Name": "", 
+    "PlayCount": "", 
+    "Volume": 50
+  }, 
+  {
+    "DurationSec": 96, 
+    "FadeOutTimeSec": 30, 
+    "FileName": "music/menu_03.ogg", 
+    "Loop": "", 
+    "Name": "MenuMusic", 
+    "PlayCount": 2, 
+    "Volume": 70
+  }, 
+  {
+    "DurationSec": 96, 
+    "FadeOutTimeSec": 30, 
+    "FileName": "music/wizmen04.ogg", 
+    "Loop": "", 
+    "Name": "", 
+    "PlayCount": 2, 
+    "Volume": 70
+  }, 
+  {
+    "DurationSec": 96, 
+    "FadeOutTimeSec": 30, 
+    "FileName": "music/new_menu_01.ogg", 
+    "Loop": "", 
+    "Name": "", 
+    "PlayCount": 2, 
+    "Volume": 70
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/tutorial_2m_arena_forest_amb_01.ogg", 
+    "Loop": true, 
+    "Name": "TrainingArena", 
+    "PlayCount": "", 
+    "Volume": 50
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/60secs_training_Arena_01.ogg", 
+    "Loop": "", 
+    "Name": "60sec_training", 
+    "PlayCount": "", 
+    "Volume": 65
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/sudden_death_01.ogg", 
+    "Loop": "", 
+    "Name": "Sudden_death", 
+    "PlayCount": "", 
+    "Volume": 60
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/scroll_preresult_loop_01.ogg", 
+    "Loop": "", 
+    "Name": "Pre_result", 
+    "PlayCount": "", 
+    "Volume": 80
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/scroll_win_02.ogg", 
+    "Loop": "", 
+    "Name": "Win", 
+    "PlayCount": "", 
+    "Volume": 95
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/scroll_lose_01.ogg", 
+    "Loop": "", 
+    "Name": "Lose", 
+    "PlayCount": "", 
+    "Volume": 85
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/scroll_draw_01.ogg", 
+    "Loop": "", 
+    "Name": "Draw", 
+    "PlayCount": "", 
+    "Volume": 85
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/scroll_post_jingle_loop_01.ogg", 
+    "Loop": true, 
+    "Name": "Post_result_loop", 
+    "PlayCount": "", 
+    "Volume": 50
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/60_sec_music_loop_01.ogg", 
+    "Loop": "", 
+    "Name": "60sec_loop", 
+    "PlayCount": "", 
+    "Volume": 55
+  }, 
+  {
+    "DurationSec": "", 
+    "FadeOutTimeSec": "", 
+    "FileName": "music/30_sec_music_loop_01.ogg", 
+    "Loop": "", 
+    "Name": "30sec_loop", 
+    "PlayCount": "", 
+    "Volume": 60
+  }
+]

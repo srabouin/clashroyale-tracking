@@ -1,0 +1,806 @@
+[
+  {
+    "Description": "String", 
+    "Name": "String", 
+    "SpellLevel": "int", 
+    "Spells": "String"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck1", 
+    "SpellLevel": 1, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck2", 
+    "SpellLevel": 1, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck3", 
+    "SpellLevel": 1, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Skeletons"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck4", 
+    "SpellLevel": 1, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Skeletons"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck5", 
+    "SpellLevel": 1, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Skeletons"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Bomber"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck6", 
+    "SpellLevel": 1, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Skeletons"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Bomber"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Arrows"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck7", 
+    "SpellLevel": 1, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Skeletons"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Bomber"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Arrows"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Fireball"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Giant"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck8", 
+    "SpellLevel": 2, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "SpearGoblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Giant"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "GoblinHut"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Fireball"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "BabyDragon"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck9", 
+    "SpellLevel": 2, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "SpearGoblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Giant"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "GoblinHut"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Arrows"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "SkeletonArmy"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck10", 
+    "SpellLevel": 3, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Skeletons"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Prince"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "SpearGoblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Arrows"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Fireball"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck11", 
+    "SpellLevel": 1, 
+    "Spells": "Valkyrie"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Witch"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Skeletons"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Tombstone"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "GiantSkeleton"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Fireball"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck12", 
+    "SpellLevel": 3, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Skeletons"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "BombTower"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Minions"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Tombstone"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Balloon"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck13", 
+    "SpellLevel": 3, 
+    "Spells": "Barbarians"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "BarbarianHut"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "SkeletonArmy"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Skeletons"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Witch"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Fireball"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Cannon"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Arrows"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck14", 
+    "SpellLevel": 2, 
+    "Spells": "Musketeer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Bomber"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "BarbarianHut"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Giant"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Balloon"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Fireball"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck15", 
+    "SpellLevel": 2, 
+    "Spells": "Musketeer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 5, 
+    "Spells": "Bomber"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "MiniPekka"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Prince"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 1, 
+    "Spells": "Balloon"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Fireball"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck16", 
+    "SpellLevel": 5, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 5, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "SkeletonArmy"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 5, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Fireball"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Giant"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Valkyrie"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "MiniPekka"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck17", 
+    "SpellLevel": 3, 
+    "Spells": "HogRider"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "InfernoTower"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "Cannon"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 5, 
+    "Spells": "Knight"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "SpearGoblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Prince"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Fireball"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck18", 
+    "SpellLevel": 2, 
+    "Spells": "Witch"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Pekka"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "SpearGoblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "Zap"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Wizard"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "Arrows"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck19", 
+    "SpellLevel": 4, 
+    "Spells": "Musketeer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "MinionHorde"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Rocket"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Giant"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Wizard"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 7, 
+    "Spells": "Archer"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "Arrows"
+  }, 
+  {
+    "Description": "", 
+    "Name": "BasicDeck20", 
+    "SpellLevel": 4, 
+    "Spells": "BarbarianHut"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 3, 
+    "Spells": "Tombstone"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "BombTower"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "Goblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Giant"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 7, 
+    "Spells": "SpearGoblins"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 2, 
+    "Spells": "Prince"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 4, 
+    "Spells": "Fireball"
+  }
+]

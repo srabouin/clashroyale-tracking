@@ -1,0 +1,7 @@
+[
+  {
+    "GoldPrice": "int", 
+    "Location": "String", 
+    "Name": "String"
+  }
+]

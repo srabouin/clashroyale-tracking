@@ -1,0 +1,20 @@
+[
+  {
+    "AR": "string", 
+    "BR": "string", 
+    "DE": "string", 
+    "EN": "string", 
+    "ES": "string", 
+    "FR": "string", 
+    "IT": "string", 
+    "JP": "string", 
+    "KR": "string", 
+    "NL": "string", 
+    "NO": "string", 
+    "RU": "string", 
+    "SCH": "string", 
+    "TCH": "string", 
+    "TID": "string", 
+    "TR": "string"
+  }
+]

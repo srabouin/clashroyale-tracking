@@ -1,0 +1,1978 @@
+[
+  {
+    "Chest": "String", 
+    "Name": "String", 
+    "field3": "", 
+    "field4": "", 
+    "field5": "", 
+    "field6": ""
+  }, 
+  {
+    "Chest": "Newbie1", 
+    "Name": "Newbie1", 
+    "field3": "", 
+    "field4": "", 
+    "field5": "", 
+    "field6": ""
+  }, 
+  {
+    "Chest": "Newbie2", 
+    "Name": "Newbie2", 
+    "field3": "", 
+    "field4": "", 
+    "field5": "", 
+    "field6": ""
+  }, 
+  {
+    "Chest": "NewbieRandom", 
+    "Name": "Newbie3", 
+    "field3": "", 
+    "field4": "", 
+    "field5": "", 
+    "field6": ""
+  }, 
+  {
+    "Chest": "NewbieFixedEpic", 
+    "Name": "Newbie4", 
+    "field3": "", 
+    "field4": "", 
+    "field5": "", 
+    "field6": ""
+  }, 
+  {
+    "Chest": "NewbieRandom", 
+    "Name": "Newbie5", 
+    "field3": "", 
+    "field4": "", 
+    "field5": "", 
+    "field6": ""
+  }, 
+  {
+    "Chest": "NewbieRandom", 
+    "Name": "Newbie6", 
+    "field3": "", 
+    "field4": "", 
+    "field5": "", 
+    "field6": ""
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "MainCycle", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Magic", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 0, 
+    "field6": 1
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Magic", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 0, 
+    "field6": 1
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Magic", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 0, 
+    "field6": 1
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Gold", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 0, 
+    "field5": 1, 
+    "field6": 0
+  }, 
+  {
+    "Chest": "Silver", 
+    "Name": "", 
+    "field3": "", 
+    "field4": 1, 
+    "field5": 0, 
+    "field6": 0
+  }
+]
