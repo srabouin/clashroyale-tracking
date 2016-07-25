@@ -1,5 +1,6 @@
 [
   {
+    "AudioPitchModifier": "int", 
     "ChangeControl": "Boolean", 
     "CrownTowerDamagePercent": "int", 
     "DamageMultiplier": "int", 
@@ -30,6 +31,7 @@
     "StaticTarget": "boolean"
   }, 
   {
+    "AudioPitchModifier": 125, 
     "ChangeControl": "", 
     "CrownTowerDamagePercent": "", 
     "DamageMultiplier": "", 
@@ -40,7 +42,7 @@
     "FilterExportName": "filter_rage", 
     "FilterFile": "sc/effects.sc", 
     "HealReduction": "", 
-    "HitSpeedMultiplier": 135, 
+    "HitSpeedMultiplier": 140, 
     "IconExportName": "", 
     "IconFileName": "", 
     "IgnorePushBack": "", 
@@ -55,41 +57,12 @@
     "RemoveOnAttack": "", 
     "RemoveOnHeal": "", 
     "SizeMultiplier": "", 
-    "SpawnSpeedMultiplier": 135, 
-    "SpeedMultiplier": 135, 
+    "SpawnSpeedMultiplier": 140, 
+    "SpeedMultiplier": 140, 
     "StaticTarget": ""
   }, 
   {
-    "ChangeControl": "", 
-    "CrownTowerDamagePercent": "", 
-    "DamageMultiplier": "", 
-    "DamagePerSecond": 25, 
-    "DamageReduction": "", 
-    "DamageType": "Fire", 
-    "Effect": "Burner", 
-    "FilterExportName": "filter_burn", 
-    "FilterFile": "sc/effects.sc", 
-    "HealReduction": "", 
-    "HitSpeedMultiplier": "", 
-    "IconExportName": "", 
-    "IconFileName": "", 
-    "IgnorePushBack": "", 
-    "ImmuneToAntiMagic": true, 
-    "ImmunityToBuffs": "", 
-    "Invisible": "", 
-    "MarkEffect": "", 
-    "Name": "Flaming", 
-    "NegatesBuffs": "", 
-    "NoEffectToCrownTowers": "", 
-    "Panic": "", 
-    "RemoveOnAttack": "", 
-    "RemoveOnHeal": "", 
-    "SizeMultiplier": "", 
-    "SpawnSpeedMultiplier": "", 
-    "SpeedMultiplier": "", 
-    "StaticTarget": ""
-  }, 
-  {
+    "AudioPitchModifier": "", 
     "ChangeControl": "", 
     "CrownTowerDamagePercent": "", 
     "DamageMultiplier": "", 
@@ -120,10 +93,11 @@
     "StaticTarget": ""
   }, 
   {
+    "AudioPitchModifier": "", 
     "ChangeControl": "", 
     "CrownTowerDamagePercent": -60, 
     "DamageMultiplier": "", 
-    "DamagePerSecond": 40, 
+    "DamagePerSecond": 42, 
     "DamageReduction": "", 
     "DamageType": "", 
     "Effect": "PoisonSteam", 
@@ -150,6 +124,7 @@
     "StaticTarget": ""
   }, 
   {
+    "AudioPitchModifier": 75, 
     "ChangeControl": "", 
     "CrownTowerDamagePercent": "", 
     "DamageMultiplier": "", 
@@ -180,6 +155,7 @@
     "StaticTarget": ""
   }, 
   {
+    "AudioPitchModifier": "", 
     "ChangeControl": "", 
     "CrownTowerDamagePercent": "", 
     "DamageMultiplier": "", 

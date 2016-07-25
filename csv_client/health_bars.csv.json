@@ -77,8 +77,20 @@
     "MinimumHitpointValue": "", 
     "Name": "Shield", 
     "NoDamageEnemyExportName": "hp_shield_enemy_number", 
-    "NoDamagePlayerExportName": "hp_player_number", 
+    "NoDamagePlayerExportName": "hp_shield_player_number", 
     "PlayerExportName": "hp_shield_player_medium", 
+    "ShowEnemyAlways": true, 
+    "ShowOwnAlways": "", 
+    "YOffset": ""
+  }, 
+  {
+    "EnemyExportName": "hp_shield_enemy_small", 
+    "FileName": "sc/ui.sc", 
+    "MinimumHitpointValue": "", 
+    "Name": "Shield_small", 
+    "NoDamageEnemyExportName": "hp_shield_enemy_number", 
+    "NoDamagePlayerExportName": "hp_shield_player_number", 
+    "PlayerExportName": "hp_shield_player_small", 
     "ShowEnemyAlways": true, 
     "ShowOwnAlways": "", 
     "YOffset": ""

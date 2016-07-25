@@ -18,25 +18,5 @@
     "MinBuffChance": "", 
     "Name": "Physical", 
     "NumberOfJumps": ""
-  }, 
-  {
-    "Buff": "", 
-    "BuffTime": "", 
-    "DamageEffect": "Damage", 
-    "Efficiency": 100, 
-    "MaxBuffChance": "", 
-    "MinBuffChance": "", 
-    "Name": "Fire", 
-    "NumberOfJumps": ""
-  }, 
-  {
-    "Buff": "Poison", 
-    "BuffTime": "", 
-    "DamageEffect": "Damage", 
-    "Efficiency": 100, 
-    "MaxBuffChance": "", 
-    "MinBuffChance": "", 
-    "Name": "Poison", 
-    "NumberOfJumps": ""
   }
 ]

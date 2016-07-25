@@ -67,15 +67,15 @@
   {
     "CollisionRadius": "", 
     "Effect": "", 
-    "ExportName": "WoodWall_single_2", 
+    "ExportName": "Grassland_1x1_bush1", 
     "FileName": "sc/effects.sc", 
     "Layer": "Object", 
     "LowendLayer": "Ground", 
     "Name": "WoodWall_single_2", 
-    "ShadowScale": 83, 
-    "ShadowSkew": 38, 
-    "ShadowX": "", 
-    "ShadowY": ""
+    "ShadowScale": 91, 
+    "ShadowSkew": 28, 
+    "ShadowX": -4, 
+    "ShadowY": -8
   }, 
   {
     "CollisionRadius": "", 
@@ -1671,10 +1671,10 @@
     "Layer": "Object", 
     "LowendLayer": "Ground", 
     "Name": "spell_arena_edge_pole", 
-    "ShadowScale": 95, 
-    "ShadowSkew": "", 
-    "ShadowX": -6, 
-    "ShadowY": -6
+    "ShadowScale": 105, 
+    "ShadowSkew": 17, 
+    "ShadowX": "", 
+    "ShadowY": -39
   }, 
   {
     "CollisionRadius": "", 
@@ -1762,10 +1762,10 @@
     "Layer": "Object", 
     "LowendLayer": "Ground", 
     "Name": "spell_stand_blue_left", 
-    "ShadowScale": 95, 
-    "ShadowSkew": "", 
-    "ShadowX": -6, 
-    "ShadowY": -6
+    "ShadowScale": 109, 
+    "ShadowSkew": 6, 
+    "ShadowX": -17, 
+    "ShadowY": -47
   }, 
   {
     "CollisionRadius": "", 
@@ -1775,10 +1775,10 @@
     "Layer": "Object", 
     "LowendLayer": "Ground", 
     "Name": "spell_stand_blue_right", 
-    "ShadowScale": 95, 
+    "ShadowScale": 101, 
     "ShadowSkew": "", 
-    "ShadowX": -6, 
-    "ShadowY": -6
+    "ShadowX": -17, 
+    "ShadowY": -40
   }, 
   {
     "CollisionRadius": "", 

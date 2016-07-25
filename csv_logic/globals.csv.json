@@ -171,7 +171,7 @@
     "BooleanValue": "", 
     "Name": "MAX_MESSAGE_LENGTH", 
     "NumberArray": "", 
-    "NumberValue": 128, 
+    "NumberValue": 256, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -473,6 +473,38 @@
   }, 
   {
     "BooleanValue": "", 
+    "Name": "DAMAGE_INCREASE_PERCENT_PER_KING_LEVEL_AFTER_TOURNAMENTCAP", 
+    "NumberArray": "", 
+    "NumberValue": 10, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "HITPOINT_INCREASE_PERCENT_PER_KING_LEVEL_AFTER_TOURNAMENTCAP", 
+    "NumberArray": "", 
+    "NumberValue": 10, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "DAMAGE_INCREASE_PERCENT_PER_TOWER_LEVEL_AFTER_TOURNAMENTCAP", 
+    "NumberArray": "", 
+    "NumberValue": 10, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "HITPOINT_INCREASE_PERCENT_PER_TOWER_LEVEL_AFTER_TOURNAMENTCAP", 
+    "NumberArray": "", 
+    "NumberValue": 10, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
     "Name": "END_TIMER_ANIM_MS", 
     "NumberArray": "", 
     "NumberValue": 12000, 
@@ -547,7 +579,7 @@
     "BooleanValue": "", 
     "Name": "MELEE_RANGE_LIMIT", 
     "NumberArray": "", 
-    "NumberValue": 2000, 
+    "NumberValue": 1900, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -566,14 +598,6 @@
     "NumberValue": "", 
     "StringArray": "", 
     "TextValue": "TrainingCamp"
-  }, 
-  {
-    "BooleanValue": "", 
-    "Name": "REDUCED_TOWER_DAMAGE_PERCENT", 
-    "NumberArray": "", 
-    "NumberValue": 40, 
-    "StringArray": "", 
-    "TextValue": ""
   }, 
   {
     "BooleanValue": "", 
@@ -609,6 +633,14 @@
   }, 
   {
     "BooleanValue": "", 
+    "Name": "PRICE_LEGENDARY", 
+    "NumberArray": "", 
+    "NumberValue": 40000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
     "Name": "PRICE_EPIC", 
     "NumberArray": "", 
     "NumberValue": 2000, 
@@ -619,7 +651,7 @@
     "BooleanValue": "", 
     "Name": "PRICE_RARE", 
     "NumberArray": "", 
-    "NumberValue": 40, 
+    "NumberValue": 20, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -627,31 +659,47 @@
     "BooleanValue": "", 
     "Name": "PRICE_COMMON", 
     "NumberArray": "", 
+    "NumberValue": 2, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PRICE_INCREASE_LEGENDARY", 
+    "NumberArray": "", 
+    "NumberValue": 40000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PRICE_INCREASE_EPIC", 
+    "NumberArray": "", 
+    "NumberValue": 2000, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PRICE_INCREASE_RARE", 
+    "NumberArray": "", 
+    "NumberValue": 20, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PRICE_INCREASE_COMMON", 
+    "NumberArray": "", 
+    "NumberValue": 2, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "BUY_LIMIT_LEGENDARY", 
+    "NumberArray": "", 
     "NumberValue": 3, 
-    "StringArray": "", 
-    "TextValue": ""
-  }, 
-  {
-    "BooleanValue": "", 
-    "Name": "PRICE_EPIC_INCREASE_PER_ONE_BOUGHT_PERCENT", 
-    "NumberArray": "", 
-    "NumberValue": 180, 
-    "StringArray": "", 
-    "TextValue": ""
-  }, 
-  {
-    "BooleanValue": "", 
-    "Name": "PRICE_RARE_INCREASE_PER_ONE_BOUGHT_PERCENT", 
-    "NumberArray": "", 
-    "NumberValue": 140, 
-    "StringArray": "", 
-    "TextValue": ""
-  }, 
-  {
-    "BooleanValue": "", 
-    "Name": "PRICE_COMMON_INCREASE_PER_ONE_BOUGHT_PERCENT", 
-    "NumberArray": "", 
-    "NumberValue": 120, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -667,7 +715,7 @@
     "BooleanValue": "", 
     "Name": "BUY_LIMIT_RARE", 
     "NumberArray": "", 
-    "NumberValue": 20, 
+    "NumberValue": 50, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -675,7 +723,7 @@
     "BooleanValue": "", 
     "Name": "BUY_LIMIT_COMMON", 
     "NumberArray": "", 
-    "NumberValue": 50, 
+    "NumberValue": 100, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -700,6 +748,14 @@
     "Name": "SHARE_REPLAY_COOLDOWN_SECS", 
     "NumberArray": "", 
     "NumberValue": 40, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "SHARE_TV_REPLAY_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -1243,7 +1299,7 @@
     "BooleanValue": "", 
     "Name": "TOURNAMENT_MAX_EXP_LEVEL", 
     "NumberArray": "", 
-    "NumberValue": 8, 
+    "NumberValue": 9, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -1251,7 +1307,7 @@
     "BooleanValue": "", 
     "Name": "TOURNAMENT_MAX_COMMON_LEVEL", 
     "NumberArray": "", 
-    "NumberValue": 8, 
+    "NumberValue": 9, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -1259,7 +1315,7 @@
     "BooleanValue": "", 
     "Name": "TOURNAMENT_MAX_RARE_LEVEL", 
     "NumberArray": "", 
-    "NumberValue": 6, 
+    "NumberValue": 7, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -1267,7 +1323,7 @@
     "BooleanValue": "", 
     "Name": "TOURNAMENT_MAX_EPIC_LEVEL", 
     "NumberArray": "", 
-    "NumberValue": 3, 
+    "NumberValue": 4, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -1323,7 +1379,7 @@
     "BooleanValue": "", 
     "Name": "SUPER_CHEST_CHANCE", 
     "NumberArray": "", 
-    "NumberValue": 1000, 
+    "NumberValue": 500, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -1372,6 +1428,62 @@
     "Name": "MULTIPLE_DECKS_ENABLED", 
     "NumberArray": "", 
     "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "BATTLE_LOG_SAVE_MINIMAL_DECK_DATA", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "MAX_BATTLE_REWARDS_PER_DAY", 
+    "NumberArray": "", 
+    "NumberValue": 20, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "SPECTATE_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "ADD_CHARACTER_RANGE_TO_RADIUS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "CHEERING_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SHOP_NEW_CARD_CHANCE", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "ELDER_KICK_COOLDOWN", 
+    "NumberArray": "", 
+    "NumberValue": 1200, 
     "StringArray": "", 
     "TextValue": ""
   }

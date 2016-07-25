@@ -1,0 +1,140 @@
+[
+  {
+    "Channels": "Int", 
+    "DurationMillis": "Int", 
+    "Id": "Int", 
+    "Name": "String"
+  }, 
+  {
+    "Channels": 0, 
+    "DurationMillis": 500, 
+    "Id": 0, 
+    "Name": "OvertimeStart"
+  }, 
+  {
+    "Channels": 0, 
+    "DurationMillis": 500, 
+    "Id": 1, 
+    "Name": "CountdownStart"
+  }, 
+  {
+    "Channels": 0, 
+    "DurationMillis": 500, 
+    "Id": 2, 
+    "Name": "60s_Left"
+  }, 
+  {
+    "Channels": 0, 
+    "DurationMillis": 500, 
+    "Id": 3, 
+    "Name": "60s_LeftOvertime"
+  }, 
+  {
+    "Channels": 0, 
+    "DurationMillis": 500, 
+    "Id": 4, 
+    "Name": "30s_Left"
+  }, 
+  {
+    "Channels": 0, 
+    "DurationMillis": 500, 
+    "Id": 5, 
+    "Name": "Draw"
+  }, 
+  {
+    "Channels": 1, 
+    "DurationMillis": 500, 
+    "Id": 0, 
+    "Name": "BlueLeftTowerDown"
+  }, 
+  {
+    "Channels": 1, 
+    "DurationMillis": 500, 
+    "Id": 1, 
+    "Name": "BlueRightTowerDown"
+  }, 
+  {
+    "Channels": 1, 
+    "DurationMillis": 500, 
+    "Id": 2, 
+    "Name": "BlueKingDown"
+  }, 
+  {
+    "Channels": 1, 
+    "DurationMillis": 500, 
+    "Id": 3, 
+    "Name": "BlueWin"
+  }, 
+  {
+    "Channels": 1, 
+    "DurationMillis": 500, 
+    "Id": 4, 
+    "Name": "BlueFireball"
+  }, 
+  {
+    "Channels": 1, 
+    "DurationMillis": 500, 
+    "Id": 5, 
+    "Name": "BlueLightning"
+  }, 
+  {
+    "Channels": 1, 
+    "DurationMillis": 500, 
+    "Id": 6, 
+    "Name": "BlueRocket"
+  }, 
+  {
+    "Channels": 1, 
+    "DurationMillis": 500, 
+    "Id": 7, 
+    "Name": "BlueXbow"
+  }, 
+  {
+    "Channels": 2, 
+    "DurationMillis": 500, 
+    "Id": 0, 
+    "Name": "RedLeftTowerDown"
+  }, 
+  {
+    "Channels": 2, 
+    "DurationMillis": 500, 
+    "Id": 1, 
+    "Name": "RedRightTowerDown"
+  }, 
+  {
+    "Channels": 2, 
+    "DurationMillis": 500, 
+    "Id": 2, 
+    "Name": "RedKingDown"
+  }, 
+  {
+    "Channels": 2, 
+    "DurationMillis": 500, 
+    "Id": 3, 
+    "Name": "RedWin"
+  }, 
+  {
+    "Channels": 2, 
+    "DurationMillis": 500, 
+    "Id": 4, 
+    "Name": "RedFireball"
+  }, 
+  {
+    "Channels": 2, 
+    "DurationMillis": 500, 
+    "Id": 5, 
+    "Name": "RedLightning"
+  }, 
+  {
+    "Channels": 2, 
+    "DurationMillis": 500, 
+    "Id": 6, 
+    "Name": "RedRocket"
+  }, 
+  {
+    "Channels": 2, 
+    "DurationMillis": 500, 
+    "Id": 7, 
+    "Name": "RedXbow"
+  }
+]

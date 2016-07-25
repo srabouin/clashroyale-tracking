@@ -1484,38 +1484,20 @@
   {
     "Description": "", 
     "Name": "BasicDeck35", 
-    "SpellLevel": 2, 
-    "Spells": "Golem"
-  }, 
-  {
-    "Description": "", 
-    "Name": "", 
-    "SpellLevel": 6, 
-    "Spells": "Wizard"
+    "SpellLevel": 8, 
+    "Spells": "SpearGoblins"
   }, 
   {
     "Description": "", 
     "Name": "", 
     "SpellLevel": 8, 
-    "Spells": "Bomber"
+    "Spells": "Archer"
   }, 
   {
     "Description": "", 
     "Name": "", 
-    "SpellLevel": 3, 
-    "Spells": "Witch"
-  }, 
-  {
-    "Description": "", 
-    "Name": "", 
-    "SpellLevel": 6, 
-    "Spells": "Valkyrie"
-  }, 
-  {
-    "Description": "", 
-    "Name": "", 
-    "SpellLevel": 3, 
-    "Spells": "BabyDragon"
+    "SpellLevel": 8, 
+    "Spells": "MinionHorde"
   }, 
   {
     "Description": "", 
@@ -1527,7 +1509,25 @@
     "Description": "", 
     "Name": "", 
     "SpellLevel": 8, 
-    "Spells": "Zap"
+    "Spells": "Barbarians"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "Giant"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "HogRider"
+  }, 
+  {
+    "Description": "", 
+    "Name": "", 
+    "SpellLevel": 6, 
+    "Spells": "Elixir Collector"
   }, 
   {
     "Description": "", 

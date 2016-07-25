@@ -123,7 +123,7 @@
   {
     "Decks": 1, 
     "DiamondReward": "", 
-    "ExpToNextLevel": 80000, 
+    "ExpToNextLevel": 40000, 
     "Name": 11, 
     "SummonerKillGold": 0, 
     "SummonerLevel": 11, 
@@ -134,12 +134,23 @@
   {
     "Decks": 1, 
     "DiamondReward": "", 
-    "ExpToNextLevel": 100000, 
+    "ExpToNextLevel": 80000, 
     "Name": 12, 
     "SummonerKillGold": 0, 
     "SummonerLevel": 12, 
     "TowerKillGold": 0, 
     "TowerLevel": 12, 
     "TroopLevel": 12
+  }, 
+  {
+    "Decks": 1, 
+    "DiamondReward": "", 
+    "ExpToNextLevel": 100000, 
+    "Name": 13, 
+    "SummonerKillGold": 0, 
+    "SummonerLevel": 13, 
+    "TowerKillGold": 0, 
+    "TowerLevel": 13, 
+    "TroopLevel": 13
   }
 ]

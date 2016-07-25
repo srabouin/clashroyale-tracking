@@ -953,6 +953,14 @@
   }, 
   {
     "BooleanValue": true, 
+    "Name": "CHAT_NEW_DIVIDER_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
     "Name": "ADMIN_MESSAGE_BUTTON_ENABLED", 
     "NumberArray": "", 
     "NumberValue": "", 
@@ -971,7 +979,7 @@
     "BooleanValue": "", 
     "Name": "CACHE_MAX_EXTRA_SC_FILES", 
     "NumberArray": "", 
-    "NumberValue": 30, 
+    "NumberValue": 15, 
     "StringArray": "", 
     "TextValue": ""
   }, 
@@ -981,6 +989,182 @@
     "NumberArray": "", 
     "NumberValue": "", 
     "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "GOOGLE_PLAY_LOGIN_ONLY_WHEN_NOT_LOGGED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "CLIP_GFX_BEHIND_BOTTOM_BAR", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "USE_DASH_ANIMS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PLAYER_INFO_SORT_SPELLS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "PLAYER_INFO_COPY_DECK_ENABLED", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "PLAYER_INFO_CARD_SCALE", 
+    "NumberArray": "", 
+    "NumberValue": 60, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "HIDE_BG_BEHIND_CREDITS_MENU", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "HIDE_BG_BEHIND_ARENA_CHANGE_MENU", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "HIDE_INVISIBLE_ILLEGAL_PLACE_RENDERER", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "HIDE_INVISIBLE_UI", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": true, 
+    "Name": "LOW_GFX_SHOW_BASE_LAYER_OBJECTS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SPECTATE_CHEER_BUTTON_COOLDOWN_SECONDS", 
+    "NumberArray": "", 
+    "NumberValue": 8, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "SPECTATE_CHEER_MAX_CONFETTIS", 
+    "NumberArray": "", 
+    "NumberValue": 40, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "AREA_DAMAGE_INDICATOR_DURATION_MS", 
+    "NumberArray": "", 
+    "NumberValue": 400, 
+    "StringArray": "", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "TV_ARENAS", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "Arena1", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "Arena2", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "Arena3", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "Arena4", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "Arena5", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "Arena6", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "Arena7", 
+    "TextValue": ""
+  }, 
+  {
+    "BooleanValue": "", 
+    "Name": "", 
+    "NumberArray": "", 
+    "NumberValue": "", 
+    "StringArray": "Arena8", 
     "TextValue": ""
   }
 ]

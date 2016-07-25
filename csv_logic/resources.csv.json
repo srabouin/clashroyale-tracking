@@ -30,7 +30,7 @@
     "TextRed": 102
   }, 
   {
-    "Cap": 500000, 
+    "Cap": 1000000, 
     "CapFullTID": "TID_GOLD_CAP_FULL", 
     "CollectEffect": "Collect Gold", 
     "IconExportName": "icon_gold", 
@@ -90,7 +90,7 @@
     "TextRed": ""
   }, 
   {
-    "Cap": 500000, 
+    "Cap": 1000000, 
     "CapFullTID": "", 
     "CollectEffect": "Collect Gold", 
     "IconExportName": "icon_gold", 
@@ -202,6 +202,36 @@
     "IconFile": "", 
     "IconSWF": "", 
     "Name": "SuperChestIndex", 
+    "PremiumCurrency": "", 
+    "ShopIcon": "", 
+    "TID": "", 
+    "TextBlue": "", 
+    "TextGreen": "", 
+    "TextRed": ""
+  }, 
+  {
+    "Cap": "", 
+    "CapFullTID": "", 
+    "CollectEffect": "", 
+    "IconExportName": "", 
+    "IconFile": "", 
+    "IconSWF": "", 
+    "Name": "BattleRewardGold", 
+    "PremiumCurrency": "", 
+    "ShopIcon": "", 
+    "TID": "", 
+    "TextBlue": "", 
+    "TextGreen": "", 
+    "TextRed": ""
+  }, 
+  {
+    "Cap": "", 
+    "CapFullTID": "", 
+    "CollectEffect": "", 
+    "IconExportName": "", 
+    "IconFile": "", 
+    "IconSWF": "", 
+    "Name": "BattleRewardCount", 
     "PremiumCurrency": "", 
     "ShopIcon": "", 
     "TID": "", 
