@@ -225,7 +225,7 @@
   }, 
   {
     "Description": "Longest text", 
-    "Enabled": true, 
+    "Enabled": false, 
     "HasEvenSpaceCharacters": "", 
     "HelpshiftSDKLanguage": "zh-hans", 
     "HelpshiftSDKLanguageAndroid": "zh_CN", 
@@ -241,7 +241,7 @@
   }, 
   {
     "Description": "Longest word", 
-    "Enabled": true, 
+    "Enabled": false, 
     "HasEvenSpaceCharacters": "", 
     "HelpshiftSDKLanguage": "cn", 
     "HelpshiftSDKLanguageAndroid": "zh_TW", 
@@ -257,7 +257,7 @@
   }, 
   {
     "Description": "Double String", 
-    "Enabled": true, 
+    "Enabled": false, 
     "HasEvenSpaceCharacters": "", 
     "HelpshiftSDKLanguage": "zh-Hans", 
     "HelpshiftSDKLanguageAndroid": "zh_CN", 
@@ -273,7 +273,7 @@
   }, 
   {
     "Description": "Empty texts", 
-    "Enabled": true, 
+    "Enabled": false, 
     "HasEvenSpaceCharacters": "", 
     "HelpshiftSDKLanguage": "ko", 
     "HelpshiftSDKLanguageAndroid": "ko", 
