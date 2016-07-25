@@ -499,7 +499,7 @@
     "AoeToGround": "", 
     "BuffTime": "", 
     "BuffTimeIncreasePerLevel": "", 
-    "Damage": 120, 
+    "Damage": 90, 
     "DamageType": "", 
     "ExportName": "projectile_cannonball_small", 
     "FileName": "sc/effects.sc", 

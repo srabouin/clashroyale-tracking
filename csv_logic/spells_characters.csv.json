@@ -556,7 +556,7 @@
     "IconFile": "musketeer", 
     "InstantDamage": "", 
     "InstantHeal": "", 
-    "ManaCost": 5, 
+    "ManaCost": 4, 
     "Mirror": "", 
     "MultipleProjectiles": "", 
     "Name": "Musketeer", 
